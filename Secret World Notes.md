@@ -61,10 +61,10 @@ And make as a Church-Going Man does before Holy Symbols.
 He shall show Great Disdain for the Trappings of Old Empire,
 And avert his Gaze from schemes Coiled and Chaotic.
 
-/applaud before the man
-/pray before the angel
-/spit on the armor
-/covereyes before the serpent
+`/applaud` before the man<br>
+`/pray` before the angel<br>
+`/spit` on the armor<br>
+`/covereyes` before the serpent<br>
 
 
 # Men in Black Vans
@@ -988,7 +988,7 @@ Laptop parts: retrace your steps in reverse, as you'll want to head north along 
 Location: (719, 953), at the feet of the left statue heading north from the Oxford camp. (head through the pass and jump up from behind to get onto the platform.)
 
 > We came to a place.<br>
-> Where teh oasis <span style="text-decoration:line-through;">screams</span> sleeps.<br>
+> Where the oasis <span style="text-decoration:line-through;">screams</span> sleeps.<br>
 > The vast, the sweeping, the lush oasis. <span style="text-decoration:line-through;">Taunting</span> defying the desert.<br>
 > By the <span style="text-decoration:line-through;">dead</span> still water, the rock stands.<br>
 > The growls of the earth.
@@ -1121,7 +1121,7 @@ Possibly this is better:
 
 ## Tier 3/5
 
-You must be dead to hear the clues by the corpses, so /reset.
+You must be dead to hear the clues by the corpses, so `/reset`.
 
 father's clue: VL
 mother's clue: 159
@@ -1388,7 +1388,7 @@ Interestingly, google gives different translations depending on the case:
 
 I think the message may be intended to be `Under the oldest tree he wept, saying, "As above, so below."` or something similar.
 
-In any case, go around to the back of the big tree in the park (you'll see a message saying the leaves whisper when you're in the right spot) and /cry. And as you cry below, so the tree cries above. With leaves. Then glowing. Follow follow.
+In any case, go around to the back of the big tree in the park (you'll see a message saying the leaves whisper when you're in the right spot) and `/cry`. And as you cry below, so the tree cries above. With leaves. Then glowing. Follow follow.
 
 -----
 
