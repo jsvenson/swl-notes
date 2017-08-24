@@ -1219,7 +1219,7 @@ Drug List
 * [Fluoxetine](https://en.wikipedia.org/wiki/Fluoxetine)
   * Prozac, Sarafem. Antidepressant. Treatment of major depressive disorder, OCD, panic, bulimia nervosa.
 * [Thioridazine](https://en.wikipedia.org/wiki/Thioridazine)
-  * antipsychotic. Treatment fo schizophrenia and psychosis.
+  * antipsychotic. Treatment for schizophrenia and psychosis.
 * [Diazepam](https://en.wikipedia.org/wiki/Diazepam)
   * valium. Treats anxiety, alcohol withdrawl syndrome, muscle spasms, seizures.
 * [Oxycodone](https://en.wikipedia.org/wiki/Oxycodone)
@@ -1335,7 +1335,7 @@ Enter the church, leave the church (strip away the holiness), behind the church,
 
 > The link is here, and to understand my research, you need to understand the link.
 
-The "message written within us all" is probably DNA, so search for dna 45477804 45481340 and you get [this technical page](https://www.ncbi.nlm.nih.gov/gap/phegeni?chr=1&from=45477804&to=45481340&fromto=45477804+45481340&tab=0#pgGTEX). Looking under the eQTL section, the only gene that appears is [UROD](https://www.ncbi.nlm.nih.gov/gene/7389) which is another technical page (it's the NIH, it's supposed to be). The summary says that mutations in this gene are known to cause "familial porphyria cutanea tarda and hepatoerythropoetic porphyria". So… [`porphyria`](https://en.wikipedia.org/wiki/Porphyria).
+The "message written within us all" is probably DNA, so search for `dna 45477804 45481340` and you get [this technical page](https://www.ncbi.nlm.nih.gov/gap/phegeni?chr=1&from=45477804&to=45481340&fromto=45477804+45481340&tab=0#pgGTEX). Looking under the eQTL section, the only gene that appears is [UROD](https://www.ncbi.nlm.nih.gov/gene/7389) which is another technical page (it's the NIH, it's supposed to be). The summary says that mutations in this gene are known to cause "familial porphyria cutanea tarda and hepatoerythropoetic porphyria". So… [`porphyria`](https://en.wikipedia.org/wiki/Porphyria).
 
 -----
 
