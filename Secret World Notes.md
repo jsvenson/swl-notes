@@ -519,22 +519,24 @@ Line up the decoded transmissions and pick out the letters, using one [A-Za-z] f
     $lines[] = ')c=*$(r#, !a# _=u @$!r $#? @+a*(% @+% s^( $!*s @n! #$v%# !*$h)#. !)!(s= @+e %^t@ !f $^+e. @o$*!*-f^() !&*#ts ^&a@! w@_% I !a@#^, *@t * !l%)g (+ $@ i* t($ ^ou!* +~ d*!t$! (%e@ $y _!r$s!';
     $lines[] = ')!=*l(#s, !(# y=# @$a) $e? @+=se% @o% )i( $a*$ @(d #$*e# !*$#ts. !)ro#= @+$ pi&@ !* f^+@. @_$*t*-!o() !&*s+# cr^@! !@_t * ,(r#^, *@% I !$%)@ t+ $t ^* #h$ ^*&s* o~ !*!_h! (e*@ $* _!=d@!';
 
-    $output = [];
+```php
+$output = [];
 
-    for ($i=0; $i < count($lines); $i++) {
-      for ($j=0; $j < strlen($lines[$i]); $j++) {
-    
-        if (!isset($output[$j]) || $output[$j] == ' ') {
-          $output[$j] = (preg_match('/[A-Za-z0-9,.par]/', $lines[$i][$j]) == 1)? $output[$j] = $lines[$i][$j] : ' ';
-        }
-      }
+for ($i=0; $i < count($lines); $i++) {
+  for ($j=0; $j < strlen($lines[$i]); $j++) {
+
+    if (!isset($output[$j]) || $output[$j] == ' ') {
+      $output[$j] = (preg_match('/[A-Za-z0-9,.par]/', $lines[$i][$j]) == 1)? $output[$j] = $lines[$i][$j] : ' ';
     }
+  }
+}
 
-    echo join('', $output);
+echo join('', $output);
+```
 
 Answer:
 
-> Scholars, can you hear me? Chased for six days and seven nights. Across the pits of fire. Fourty four beasts crave what I > carry, but I cling to it in the house of death!  Heed my words!
+> Scholars, can you hear me? Chased for six days and seven nights. Across the pits of fire. Fourty four beasts crave what I carry, but I cling to it in the house of death!  Heed my words!
 
 The important bits are the numbers (6744) and the location (pits of fire). Although to be honest, "pits of fire" sounds more like the Scorched Flats, but I suppose it does say he travelled across them. The final location is a locked box at about (505, 1010).
 
