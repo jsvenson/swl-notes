@@ -1405,6 +1405,6 @@ Venus, Mercury, the Moon, and the Sun. Light 'em up. `Venus and Mercury in their
 
 -----
 
-A fight in an investigation mission? Unpossible. Stand near the portal at the end of the room as much as you can (possibly beating the guardian down will temporarily stop him? Didn't notice.) until the portal opens and the guardian disappears.
+A fight in an investigation mission? Unpossible. The Guardian is invincible, just run around until it stops. Stand near the portal at the end of the room feeding the portal until the Guardian wakes up. Repeat as necessary.
 
 
