@@ -906,7 +906,7 @@ Dalet, then Final Kaf
 
 ## Tier 2/6
 
-Confused, really. Following [this](http://legacy.tswdb.com/missions/scorched-desert/the-unburnt-bush), but couldn't say why it's the answer.
+Confused, really. Following [this](http://legacy.tswdb.com/missions/scorched-desert/the-unburnt-bush), but couldn't say why it's the answer. Pretty sure I've made an incorrect inference.
 
 Bet, then ReshDalet (remember, R2L)
 
@@ -942,7 +942,7 @@ The container code is then (from the laptop) `1053`.
 
 ## Tier 4/4
 
-Ignore the map, which says the Halls of Lost Records is at the bottom of the zone. The Hall of Lost Records is at (371, 256), just south of Nefertari.
+Ignore the map, which says the Halls of Lost Records is at the bottom of the zone. The Halls of Lost Records is at (371, 256), just south of Nefertari.
 
 -----
 
