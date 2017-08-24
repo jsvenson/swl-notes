@@ -353,6 +353,7 @@ Reason: Emirps are prime numbers whose palindrome is a different prime:
     13 => 31
     17 => 71
     31 => 13
+    37 => 73
     71 => 17
     73 => 37
     79 => 97
