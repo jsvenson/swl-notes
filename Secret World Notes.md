@@ -2,13 +2,13 @@
 
 1364752
 
-One for sorrow
-Two for joy
-Three for a girl
-Four for a boy
-Five for silver
-Six for gold
-Seven for a secret, never to be told.
+    One for sorrow
+    Two for joy
+    Three for a girl
+    Four for a boy
+    Five for silver
+    Six for gold
+    Seven for a secret, never to be told.
 
 # Digging Deeper
 
@@ -399,13 +399,14 @@ Dish 1 (hexadecimal)
 
     )!ho$(##, c(# _o# h$!) $#? C&=*(% @+r )^x $!y$ @(! #$*%n !*g#)#. !c!(#s t&$ %^&@ o* $i+@. F_$*!y-(^u) !ea#+# ^&^v! !h_% * !(@#y, b@% * c$i)@ (+ i@ ^* #(e ^*&!e +~ !e!_$! H%*@ m* _o=$@!
 
-    # php
-    $lines = explode("\n", $input);
-    foreach ($lines as $line) {
-      $digits = explode(' ', $line);
-      foreach ($digits as $d) { echo chr(hexdec($d)); }
-      echo "\n";
-    }
+```php
+$lines = explode("\n", $input);
+foreach ($lines as $line) {
+  $digits = explode(' ', $line);
+  foreach ($digits as $d) { echo chr(hexdec($d)); }
+  echo "\n";
+}
+```
 
 -----
 
@@ -426,13 +427,14 @@ Dish 2 (decimal)
     
     S!=*la##, !(n _=# @e!) m#? @h=*(d f+% )^( d!*$ a(! se*%# ni$#)#. A)!(#= @h$ %^&s !* $^r@. @-ur!*-(^(r b&*#+# ^&^@e !@a% * c(@r^, *u% * !$%n@ (o $@ ^n #($ h*&!* +f !*a_$! (%*d $* w!=$@!
 
-    # php
-    $lines = explode("\n", $input);
-    foreach ($lines as $line) {
-      $digits = explode(' ', $line);
-      foreach ($digits as $d) { echo chr($d); }
-      echo "\n";
-    }
+```php
+$lines = explode("\n", $input);
+foreach ($lines as $line) {
+  $digits = explode(' ', $line);
+  foreach ($digits as $d) { echo chr($d); }
+  echo "\n";
+}
+```
 
 -----
 
@@ -447,9 +449,9 @@ Dish 3 (base64)
 
     )c=*$(r#, !a# _=u @$!r $#? @+a*(% @+% s^( $!*s @n! #$v%# !*$h)#. !)!(s= @+e %^t@ !f $^+e. @o$*!*-f^() !&*#ts ^&a@! w@_% I !a@#^, *@t * !l%)g (+ $@ i* t($ ^ou!* +~ d*!t$! (%e@ $y _!r$s!
 
-    # php
-    echo base64_decode($input);
-
+```php
+echo base64_decode($input);
+```
 
 -----
 
@@ -496,9 +498,10 @@ Dish 4 (binary)
     
     )!=*l(#s, !(# y=# @$a) $e? @+=se% @o% )i( $a*$ @(d #$*e# !*$#ts. !)ro#= @+$ pi&@ !* f^+@. @_$*t*-!o() !&*s+# cr^@! !@_t * ,(r#^, *@% I !$%)@ t+ $t ^* #h$ ^*&s* o~ !*!_h! (e*@ $* _!=d@!
     
-    # php
-    $chrs = explode(' ', $input);
-    foreach ($chrs as $chr) { echo chr(bindec($chr)); }
+```php
+$chrs = explode(' ', $input);
+foreach ($chrs as $chr) { echo chr(bindec($chr)); }
+```
     
 -----
 
@@ -627,8 +630,9 @@ To find Anubis head east out of the courtyard, drop off the edge and turn around
 
 Roman history, Caesar cipher, ROT13. So:
 
-    ```php
-    echo str_rot13($input);
+```php
+echo str_rot13($input);
+```
 
 And that translates to:
 
@@ -1266,31 +1270,31 @@ Treatment: translate the diary.
 
 So. Periodic table of elements, and then probably weights to letters, A=1, B=2, etc. So with this:
 
-    ```php
-    $input = "F HKNaBBe CaOB PMgBe BeArFSiNaBArK HCa CaOB CaHTiBArSiH HHePScCa AlMn CHCaOBAr. KPAlB ArBAlBAlHeBArBBe, ArBLiHMgMgBBe OB KSBSiCa SiFNOCaK VFCaO OFK MgPLiHMg AlFKCaArBKK CaOBArB. 'NPPBe VFCaO H SFCaLiOCPArNa, HSiBe CaOHCa VHK SiPCa HMgMg.' CaOFK VPAlHSi FK MgPSiN NPSiB, HeScCa SBArOHSK KPAlBCaOFSiN ArBAlHFSiK.";
+```php
+$input = "F HKNaBBe CaOB PMgBe BeArFSiNaBArK HCa CaOB CaHTiBArSiH HHePScCa AlMn CHCaOBAr. KPAlB ArBAlBAlHeBArBBe, ArBLiHMgMgBBe OB KSBSiCa SiFNOCaK VFCaO OFK MgPLiHMg AlFKCaArBKK CaOBArB. 'NPPBe VFCaO H SFCaLiOCPArNa, HSiBe CaOHCa VHK SiPCa HMgMg.' CaOFK VPAlHSi FK MgPSiN NPSiB, HeScCa SBArOHSK KPAlBCaOFSiN ArBAlHFSiK.";
 
-    $table = [
-      'H', 'He', 'Li', 'Be', 'B', 'C', 'N', 'O', 'F', 'Ne', 'Na', 'Mg', 'Al',
-      'Si', 'P', 'S', 'Cl', 'Ar', 'K', 'Ca', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe'
-    ];
+$table = [
+  'H', 'He', 'Li', 'Be', 'B', 'C', 'N', 'O', 'F', 'Ne', 'Na', 'Mg', 'Al',
+  'Si', 'P', 'S', 'Cl', 'Ar', 'K', 'Ca', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe'
+];
 
-    $output = '';
+$output = '';
 
-    for ($i=0; $i < strlen($input); $i++) { 
-      if (preg_match('/[^A-Za-z]/', $input[$i]) == 1) { # skip punctuation and spaces
-        $output .= $input[$i];
-      } else {
-        $symbol = $input[$i];
-    
-        # check for lowercase and increment counter if found
-        if ($i < strlen($input) - 1 && preg_match('/[a-z]/', $input[$i + 1]) == 1) $symbol .= $input[++$i];
-    
-        $output .= chr(array_search($symbol, $table) + 65);
-      }
-    }
+for ($i=0; $i < strlen($input); $i++) { 
+  if (preg_match('/[^A-Za-z]/', $input[$i]) == 1) { # skip punctuation and spaces
+    $output .= $input[$i];
+  } else {
+    $symbol = $input[$i];
 
-    echo $output;
-    ```
+    # check for lowercase and increment counter if found
+    if ($i < strlen($input) - 1 && preg_match('/[a-z]/', $input[$i + 1]) == 1) $symbol .= $input[++$i];
+
+    $output .= chr(array_search($symbol, $table) + 65);
+  }
+}
+
+echo $output;
+```
 
 You get this:
 
@@ -1389,5 +1393,9 @@ Two coins for the ferryman, and I guess we're stabbing people in the mouth now. 
 There is a map of the earth on the door at the far end of the room, so we'll call that Earth, the fourth brazier back from that is larger than the others, so we'll call that the Sun. That leaves three braziers in between the Earth and the Sun, which fits the clue (Venus, Mercury, and the Moon.)
 
 Venus, Mercury, the Moon, and the Sun. Light 'em up. `Venus and Mercury in their courses`, so [Mercury first](https://en.wikipedia.org/wiki/Solar_System), then Venus, `in the lowest sphere the Moon revolves` so it's next, `lighted by the rays of the sun` making it last. At least I think that's the logic. Marking the brazier closest the map door as `1`, the order is `3-2-1-4`.
+
+-----
+
+A fight in an investigation mission? Unpossible. Stand near the portal at the end of the room as much as you can (possibly beating the guardian down will temporarily stop him? Didn't notice.) until the portal opens and the guardian disappears.
 
 
