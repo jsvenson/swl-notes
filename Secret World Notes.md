@@ -38,7 +38,7 @@ To proceed, write as a Learned Man would.
 Look to Jerome's Work on the two score and
 first Psalm, the eigth part, the first Darkness.
 
-Answer: ABYSSUS (you need the latin text of the [Psalms 41:8](http://www.latinvulgate.com/lv/verse.aspx?t=0&b=21&c=41))
+Answer: ABYSSUS (you need the latin text of [Psalms 41:8](http://www.latinvulgate.com/lv/verse.aspx?t=0&b=21&c=41))
 
 -----
 
@@ -70,7 +70,7 @@ And avert his Gaze from schemes Coiled and Chaotic.
 
 # Men in Black Vans
 
-Subject: Field-deploying Occult Attrator V4
+Subject: Field-deploying Occult Attrator V4<br>
 From: Mission Control, VALI
 
 In case of emergency, each component has an indiviudal signal on your tracker. Do not leave advanced ocult technology behind in the field.
@@ -100,10 +100,61 @@ There, at the apex, his eyes will be opened.
 
 Yin & yang, skull, phoenix, pyramid, the eye.
 
+## Tier 13/22
+
+The Order of Great Works
+
+All things in their Place under Stars:<br>
+The stone Lodges Erected<br>
+To the Watchful Eye<br>
+Upon the Bones of the Opposers<br>
+And their Symbols, buried
+
+## Tier 14/22
+
+* William Allerton
+* Susanna Allerton
+* Frederick Beaumont
+* Edward Cooper
+* Dorothy Mary Cooper
+* Francis Chilton
+* Isaac Fletcher
+* Thomas Samson Fuller
+* Solomon Priest
+* Samuel Jonathan Rogers
 
 -----
 
-League of Monster Slayers - 654312
+January 19th, 1881
+
+Beaumont came by for supper.
+
+Though I am beginning to suspect his intentions for visiting so often, he remains pleasant company [covered] He makes my dear Joanna [covered]
+
+He makes my dear [covered]
+
+I had the [covered] in a fever. I can still hear the terrible whispers that beckon one into the deep…
+
+Beaumont called at the house this morning after breakfast, and asked to speak with me in private. He again insisted to be brought down into the mines to speak with the men; he appeared upset, and began to shout. This time, I refused him and he left in a hurry. Joanna berated me for being a poor host. I feat she has developed feelings for him.
+
+
+[attached note:]
+
+Frank R. Devore
+The Devore Mansion
+Solomon Island
+
+Devore founded the Blue Ridge in 1876. found guilty of murdering his wife Joanna in October 1881. Sentenced to death by hanging. Associated with individual named 'Beaumont'. Numerous references to this person in diary. Connected to other mentions of Beaumont in Solomon Island history? Diary also references important papers regarding Blue Ridge Mine located in mansion, but papers appear to have been hidden. Our agents have been unable to retrieve. Devore Mansion has recently been sold to E. Franklin.
+
+## Tier 15?/22
+
+Symbols might randomize? Standing on all-seeing eye, then eye surrounded by light beams opened the door for me.
+
+-----
+
+#League of Monster Slayers
+
+Chest combination - 654312
 
 -----
 
@@ -141,58 +192,6 @@ all my real and personal property whatsoever and wheresoever.<br>
 
 In witness of which I have set my hand to this my will this [23rd] day of [March, 1980].<br>
 Testaor signature: [Nathaniel Winter]
-
-# Dawning of an Endless Night
-
-## Tier 13/22
-
-The Order of Great Works
-
-All things in their Place under Stars:
-The stone Lodges Erected
-To the Watchful Eye
-Upon the Bones of the Opposers
-And their Symbols, buried
-
-## Tier 14/22
-
-* William Allerton
-* Susanna Allerton
-* Frederick Beaumont
-* Edward Cooper
-* Dorothy Mary Cooper
-* Francis Chilton
-* Isaac Fletcher
-* Thomas Samson Fuller
-* Solomon Priest
-* Samuel Jonathan Rogers
-
------
-
-January 19th, 1881
-
-Beaumont cam by for supper.
-
-Though I am beginning to suspect his intentions for visiting so often, he remains pleasant company [covered] He makes my dear Joanna [covered]
-
-He makes my dear [covered]
-
-I had the [covered] in a fever. I can still hear the terrible whispers that beckon one into the deep…
-
-Beaumont called at the house this morning after breakfast, and asked to speak with me in private. He again insisted to be brought down into the mines to speak with the men; he appeared upset, and began to shout. This time, I refused him and he left in a hurry. Joanna berated me for being a poor host. I feat she has developed feelings for him.
-
-
-[attached note:]
-
-Frank R. Devore
-The Devore Mansion
-Solomon Island
-
-Devore founded the Blue Ridge in 1876. found guilty of murdering his wife Joanna in October 1881. Sentenced to death by hanging. Associated with individual named 'Beaumont'. Numerous references to this person in diary. Connected to other mentions of Beaumont in Solomon Island history? Diary also references important papers regarding Blue Ridge Mine located in mansion, but papers appear to have been hidden. Our agents have been unable to retrieve. Devore Mansion has recently been sold to E. Franklin.
-
-## Tier 15?/22
-
-Symbols might randomize? Standing on all-seeing eye, then eye surrounded by light beams opened the door for me.
 
 -----
 
