@@ -38,7 +38,7 @@ To proceed, write as a Learned Man would.
 Look to Jerome's Work on the two score and
 first Psalm, the eigth part, the first Darkness.
 
-Answer: ABYSSSUS
+Answer: ABYSSUS (you need the latin text of the [Psalms 41:8](http://www.latinvulgate.com/lv/verse.aspx?t=0&b=21&c=41))
 
 -----
 
