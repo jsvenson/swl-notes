@@ -42,7 +42,7 @@ Answer: ABYSSUS (you need the latin text of the [Psalms 41:8](http://www.latinvu
 
 -----
 
-Should thy desires be thwarted; weep not for thyself, but for Dolandi.
+Should thy desires be thwarted; weep not for thyself, but for [Dolandi](http://www.musicnotes.com/sheetmusic/mtd.asp?ppn=mn0123344).
 
 Answer:
 
