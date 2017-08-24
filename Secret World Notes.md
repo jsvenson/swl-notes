@@ -45,11 +45,12 @@ Answer: ABYSSUS (you need the latin text of the [Psalms 41:8](http://www.latinvu
 Should thy desires be thwarted; weep not for thyself, but for Dolandi.
 
 Answer:
-half A
-dotted half E
-quarter E
-quarter G
-quarter G
+
+    half A
+    dotted half E
+    quarter E
+    quarter G
+    quarter G
 
 -----
 
