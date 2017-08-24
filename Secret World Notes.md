@@ -512,14 +512,13 @@ Line up the decoded transmissions and pick out the letters, using one [A-Za-z] f
     )c=*$(r#, !a# _=u @$!r $#? @+a*(% @+% s^( $!*s @n! #$v%# !*$h)#. !)!(s= @+e %^t@ !f $^+e. @o$*!*-f^() !&*#ts ^&a@! w@_% I !a@#^, *@t * !l%)g (+ $@ i* t($ ^ou!* +~ d*!t$! (%e@ $y _!r$s!
     )!=*l(#s, !(# y=# @$a) $e? @+=se% @o% )i( $a*$ @(d #$*e# !*$#ts. !)ro#= @+$ pi&@ !* f^+@. @_$*t*-!o() !&*s+# cr^@! !@_t * ,(r#^, *@% I !$%)@ t+ $t ^* #h$ ^*&s* o~ !*!_h! (e*@ $* _!=d@!
 
-    
-    # This mostly works, but it throws out '!', so the last two sentences don't include ending punctuation.
-    $lines[] = ')!ho$(##, c(# _o# h$!) $#? C&=*(% @+r )^x $!y$ @(! #$*%n !*g#)#. !c!(#s t&$ %^&@ o* $i+@. F_$*!y-(^u) !ea#+# ^&^v! !h_% * !(@#y, b@% * c$i)@ (+ i@ ^* #(e ^*&!e +~ !e!_$! H%*@ m* _o=$@!';
-    $lines[] = 'S!=*la##, !(n _=# @e!) m#? @h=*(d f+% )^( d!*$ a(! se*%# ni$#)#. A)!(#= @h$ %^&s !* $^r@. @-ur!*-(^(r b&*#+# ^&^@e !@a% * c(@r^, *u% * !$%n@ (o $@ ^n #($ h*&!* +f !*a_$! (%*d $* w!=$@!';
-    $lines[] = ')c=*$(r#, !a# _=u @$!r $#? @+a*(% @+% s^( $!*s @n! #$v%# !*$h)#. !)!(s= @+e %^t@ !f $^+e. @o$*!*-f^() !&*#ts ^&a@! w@_% I !a@#^, *@t * !l%)g (+ $@ i* t($ ^ou!* +~ d*!t$! (%e@ $y _!r$s!';
-    $lines[] = ')!=*l(#s, !(# y=# @$a) $e? @+=se% @o% )i( $a*$ @(d #$*e# !*$#ts. !)ro#= @+$ pi&@ !* f^+@. @_$*t*-!o() !&*s+# cr^@! !@_t * ,(r#^, *@% I !$%)@ t+ $t ^* #h$ ^*&s* o~ !*!_h! (e*@ $* _!=d@!';
-
 ```php
+# This mostly works, but it throws out '!', so the last two sentences don't include ending punctuation.
+$lines[] = ')!ho$(##, c(# _o# h$!) $#? C&=*(% @+r )^x $!y$ @(! #$*%n !*g#)#. !c!(#s t&$ %^&@ o* $i+@. F_$*!y-(^u) !ea#+# ^&^v! !h_% * !(@#y, b@% * c$i)@ (+ i@ ^* #(e ^*&!e +~ !e!_$! H%*@ m* _o=$@!';
+$lines[] = 'S!=*la##, !(n _=# @e!) m#? @h=*(d f+% )^( d!*$ a(! se*%# ni$#)#. A)!(#= @h$ %^&s !* $^r@. @-ur!*-(^(r b&*#+# ^&^@e !@a% * c(@r^, *u% * !$%n@ (o $@ ^n #($ h*&!* +f !*a_$! (%*d $* w!=$@!';
+$lines[] = ')c=*$(r#, !a# _=u @$!r $#? @+a*(% @+% s^( $!*s @n! #$v%# !*$h)#. !)!(s= @+e %^t@ !f $^+e. @o$*!*-f^() !&*#ts ^&a@! w@_% I !a@#^, *@t * !l%)g (+ $@ i* t($ ^ou!* +~ d*!t$! (%e@ $y _!r$s!';
+$lines[] = ')!=*l(#s, !(# y=# @$a) $e? @+=se% @o% )i( $a*$ @(d #$*e# !*$#ts. !)ro#= @+$ pi&@ !* f^+@. @_$*t*-!o() !&*s+# cr^@! !@_t * ,(r#^, *@% I !$%)@ t+ $t ^* #h$ ^*&s* o~ !*!_h! (e*@ $* _!=d@!';
+    
 $output = [];
 
 for ($i=0; $i < count($lines); $i++) {
