@@ -1397,7 +1397,7 @@ In any case, go around to the back of the big tree in the park (you'll see a mes
 Two coins for the ferryman, and I guess we're stabbing people in the mouth now. To be fair, he wasn't a nice man.
 
     CONSEQUUNTUR VENERIS ALTER, ALTER MERCURII CURSUS, IN INFIMOQUE ORBE LUNA RADIIS SOLIS ACCENSA CONVERTITUR.
-    Venus and Mercury in their courses; in the lowest sphere the Moon revolves, lighted by the rays of the sun.
+    Venus and Mercury in their courses; in the lowest sphere the Moon revolves, lit by the rays of the sun.
 
 There is a map of the earth on the door at the far end of the room, so we'll call that Earth, the fourth brazier back from that is larger than the others, so we'll call that the Sun. That leaves three braziers in between the Earth and the Sun, which fits the clue (Venus, Mercury, and the Moon.)
 
