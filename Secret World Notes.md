@@ -963,7 +963,7 @@ That's the final room. Once you have the key, teleport back to Ptahmose and hand
 
 Use the generator by the tent. It'll send the drone out to fix it. (In TSW you could also jump over the barriers in the tent, but the drone's awareness circle seems to be a lot bigger now.)
 
-Need password for Himura's computer. [Apparently](http://legacy.tswdb.com/missions/city-of-the-sun-god/emergency-procedures) 1981. The only place I remember seeing this was in the tent in the area north of Lisa Hui.
+Need password for Himura's computer. [Apparently](http://legacy.tswdb.com/missions/city-of-the-sun-god/emergency-procedures) 1981. The only place I remember seeing this was in the tent in the area north of Lisa Hui for the Prometheus Initiative.
 
 Pick up the data from the laptop in the tent by the entrance.
 
