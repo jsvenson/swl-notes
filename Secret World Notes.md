@@ -1085,37 +1085,37 @@ Cell phone: `Minute expirate. Acum e în mâinile tale. Caută.` = `Minutes expi
 Letter:
 
 > Sophie,
-
+> 
 > Noaptea târziu, când dormi, spiritele vorbesc prin gura ta. Nu vorbest despre lucruri bune. Asemenea orori nu-și au locul pe chipul tău dulce. Haide să fugim împreună. Departe de secretele acestui oraș și de accastă vale a stafiilor.
-
+> 
 > Am lucrat pe cămpul Olaru în acest week-end, alături de părinții tăi. Mă plac suficient de mult. Nu am indrăznit să le spun că sper să te răpesc.
-
+> 
 > Vino la fermă cu mine, duminică. Pot fi curajos. Le voi spune despre viitorul pe care vreau să-l construiesc alături de tine, la oraș. Nu vrei să vii?
-
+> 
 > Mihail.
 
 Well this is rough:
 
 > Sophie,
-
+> 
 > Late night when you sleep, spirits talk through your mouth. He did not talk about good things. Such horrors have no place on your sweet face. Let's run together. Far from the secrets of this city and the valley of the valley.
-
+> 
 > I've been working on the Olaru field this weekend with your parents. I like enough. I did not dare tell them I hope to kidnap you.
-
+> 
 > Come to the farm with me on Sunday. I can be brave. I'll tell them about the future I want to build with you, the city. Do not you want to come?
-
+> 
 > Michael.
 
 Possibly this is better:
 
 > Sophie
-
+> 
 > Late at night while you sleep, spirits speak through your mouth. They do not say good things. Such horrors have no place on your sweet face. Let's run away together. Far from the secrets of this city and this valley of ghosts.
-
+> 
 > I've been working in the Olaru fields this weekend with your parents. I like them. I did not dare tell them I hope to leave with you.
-
+> 
 > Come to the farm with me on Sunday. I will be brave. I'll tell them about the future I want to build with you, in the city. Will you come?
-
+> 
 > Michael.
 
 -----
@@ -1152,43 +1152,43 @@ The journal:
 *Original*
 
 > Am ştiut întotdeauna că sălbăticia o iubeşte. Spiritele se aşază în jurul ei precum câinii lângă foc. Însă anul acesta, când, a condus pâparuda, mi-am dat seama că și eu o iubesc.
-
+> 
 > Am găsit scrisorile fratelui meu. Scrisori către ea. Chiar trebuie oare să ne întrcein la toate? Atunci aşa să fie - şi fie ca cel mai bun dintre noi să-i afle numele adevărat.
-
+> 
 > Lumina din ochii ei a strălucit pentru o clipă, apoi a pierit. A încercat ș-o ascundă, însă am știut. M-a luat drept el. L-u ales pe el.
-
+> 
 > Dacă eu nu o pot avea, de ce să o aibă el?
-
+> 
 > Nu așa mi-am închipuit eu. Deloc nu mi-am închipuit așa. Să mă întorc singur de pe podul îndrăgostiților. Să mă întorc criminal.
-
+> 
 > Păsările negre se stăng la fereastra mea. Dacă adorm, o să-mi scoată ochii.
-
+> 
 > A venit un polițist de la oraș. Păsările negre mi-au spus-o în clipocitul apei din uluci.
-
+> 
 > Râzând ca țevile de scurgere, azi-noapt m-au dus la fermă. Păcătuiesc iar și iar. Nu are un gust sărat, ci dulce. Dulce ca otrava de șoboiani.
-
+> 
 > Dacă eu nu o pot avea, de ce să o aibă altcineva?
-
+> 
 > Polițistul știe că eu am fost. Se joacă cu mine așa [asa?] cum o pasăre neagră încoițește sărmanul miel. Nu va muri în somn, ca ceilalți.
-
+> 
 > Bolboroselile întunericului, iureșul iubiților și fraților morți. Îmi spune să aduc polițistul. Adu-l acolo unde a început ura mea.
 
 *Translation*
 
 > I always knew the wilderness loved her. Spirits sit around like the dogs near the fire. But this year, when she led the parade, I realized I also loved her.
-
+> 
 > I found my brother's letters. Letters to her. Do we really have to go to everything? Then be it - and be the best of us to find out his true name.
-
+> 
 > Light shone in her eyes for a moment, then died. She tried to hide it, but I knew. He took it to him. You chose him.
-
+> 
 > If I can not have it, why should he have it?
-
+> 
 > That's not what I imagined. At least I did not think so. Let me turn myself off the bridge of the lovers. Let me go back to murder.
-
+> 
 > The black birds sit at my window. If I fall asleep, he'll take my eyes off.
-
+> 
 > There was a city policeman. The black birds told me in the blink of water in the dungeons.
-
+> 
 > Laughing like the drain pipes, they took me to the farm today. I sin again and again. It does not taste salty but sweet. Sweet like the pox of the owls.
 
 (Say what? Didn't know owl pox was sweet. I believe this is alluding to the deaths of Sophie's parents at Olaru Farm.)
@@ -1198,7 +1198,7 @@ The journal:
 (Another winner.)
 
 > The cop knows I was. He plays with me as a black bird clings to the poor lamb. He will not die in the sleep, like the others.
-
+> 
 > The mournfulness of darkness, the joy of beloved and dead brothers. He tells me to bring the cop. Bring it where my hate started.
 
 And I believe all that means go back to the bridge over Lover's Creek, "where my hate started."
