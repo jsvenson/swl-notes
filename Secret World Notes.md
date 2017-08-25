@@ -1408,4 +1408,47 @@ Venus, Mercury, the Moon, and the Sun. Light 'em up. `Venus and Mercury in their
 
 A fight in an investigation mission? Unpossible. The Guardian is invincible, just run around until it stops. Stand near the portal at the end of the room feeding the portal until the Guardian wakes up. Repeat as necessary.
 
+-----
+
+# Obstructive Persons
+
+The note that drops off the Morninglight goon has a partially hidden web address: [http://www.joinmornin...](http://www.joinmorninglight.com/). You can guess the rest. Go ahead, sign up.
+
+        [Oops... the system was unable to finish your operation (error code 0x0000019Cx3)]
+
+The error code is interesting. And a hexadecimal number, if you ignore the `x3`.
+
+```php
+echo hexdec('19c);
+```
+
+Hex `19c` is decimal `412`. Now stop ignoring the `x3`.
+
+Find a Morninglight laptop. There's one in London at the Morninglight booth beside the park; not sure of any others. Answer the questions using the decimal value of the error. Three times.
+
+-----
+
+(Let's pontificate slightly on the possibilities for this confluence. One of three things has happened.
+
+1. The error code given when signing up is a reminder to the more dense of Morninglight operatives as to how to get into the secret menu.
+2. The error code given when signing up is changed at a set interval, so Morninglight operatives need to get the error code to view the secret menu.
+3. Pure coincidence. The error code given when trying to give Morninglight your contact info just happens to be the code used to get into their secret menu.
+
+2 seems the most likely, at least from an operational security/spycraft standpoint, although based on interactions with their agents I wouldn't discount 1. 3 is just way out there, statistically. The chances of an essentially random error message giving the correct sequence of menu items to select is less than vanishingly small, especially with that `x3` tacked onto the end.
+
+However if it is 2, that means that either the Morninglight people would need to enter a specific name and/or email to get the error to pop up (unlikely, since I tried with Bob Loblaw, a 112-year old with the email bloblaw@example.com as well as Alina Florea, 22, aleana90@gmail.com),  or the signup form always fails which, for an organization that seems to want to recruit as many layabouts as possible, seems unlikely. It is possible that they harvest the contact info and return the error anyway, but lets not give them too much credit.
+
+All of this is a roundabout way of pointing a finger and shouting, "CONTRIVED!" But I suppose I'm still having fun, so whatever.
+
+As a final aside, Funcom may want to set `display_errors` to `false` in their php.ini, or (if it already has been) remove the `ini_set('display_error', true)` directive in joinmorninglight.com/sent.php. Or check `isset($email)` and `isset($req-email)` on lines 62 and 68 respectively. But really, don't display errors on a production server.)
+
+-----
+
+Close `Alina Florea`'s file, and pick up the next: Dusko Biukovic. Last seen in London, although he's no longer there. Used to live in Romania, so off to Transylvania to look for an anxious man of medium height with short brown hair and glasses. He's standing in front of the house to the west of the Owl and the Eagle (the inn) in the Beseiged Farmlands.
+
+## Tier 4/4
+
+`The master's son.` Well "the master" is probably Philip Marquard, the leader of the Morninglight. His son's name is Alexandre, which you can find out from part 8 of the Global > Groups > Morninglight lore section (this is the one from the top of the vehicle in the tunnel beside Alina, who started this whole thing, so you should have picked it up.)
+
+Enter the password `alexandre` and the quest ends. You can read the files, which include information on Rada Nastase (quest hub in Carpathian Fangs), Cassandra King (she stole Excalibur in Kingsmouth), Naonomi Tanaka (in Kaidan, don't recall her story), John Copley (I believe the South African making deals with the Atenists in Egypt), and you (the player). Wouldn't say my *greatest* fear is anarchy, but I do miss the taco achievement.
 
