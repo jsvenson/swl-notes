@@ -1436,7 +1436,7 @@ Find a Morninglight laptop. There's one in London at the Morninglight booth besi
 
 2 seems the most likely, at least from an operational security/spycraft standpoint, although based on interactions with their agents I wouldn't discount 1. 3 is just way out there, statistically. The chances of an essentially random error message giving the correct sequence of menu items to select is less than vanishingly small, especially with that `x3` tacked onto the end.
 
-However if it is 2, that means that either the Morninglight people would need to enter a specific name and/or email to get the error to pop up (unlikely, since I tried with Bob Loblaw, a 112-year old with the email bloblaw@example.com as well as Alina Florea, 22, aleana90@gmail.com),  or the signup form always fails which, for an organization that seems to want to recruit as many layabouts as possible, seems unlikely. It is possible that they harvest the contact info and return the error anyway, but lets not give them too much credit.
+However if it is 2, that means that either the Morninglight people would need to enter a specific name and/or email to get the error to pop up (unlikely, since I tried with Bob Loblaw, a 112-year old with the email bloblaw@example.com as well as Alina Florea, 22, alina90@gmail.com),  or the signup form always fails which, for an organization that seems to want to recruit as many layabouts as possible, seems unlikely. It is possible that they harvest the contact info and return the error anyway, but lets not give them too much credit.
 
 All of this is a roundabout way of pointing a finger and shouting, "CONTRIVED!" But I suppose I'm still having fun, so whatever.
 
