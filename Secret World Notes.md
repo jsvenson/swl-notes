@@ -1414,7 +1414,7 @@ A fight in an investigation mission? Unpossible. The Guardian is invincible, jus
 
 The note that drops off the Morninglight goon has a partially hidden web address: [http://www.joinmornin...](http://www.joinmorninglight.com/). You can guess the rest. Go ahead, sign up.
 
-        [Oops... the system was unable to finish your operation (error code 0x0000019Cx3)]
+    [Oops... the system was unable to finish your operation (error code 0x0000019Cx3)]
 
 The error code is interesting. And a hexadecimal number, if you ignore the `x3`.
 
