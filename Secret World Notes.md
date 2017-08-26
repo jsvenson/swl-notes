@@ -1419,7 +1419,7 @@ The note that drops off the Morninglight goon has a partially hidden web address
 The error code is interesting. And a hexadecimal number, if you ignore the `x3`.
 
 ```php
-echo hexdec('19c);
+echo hexdec('19c');
 ```
 
 Hex `19c` is decimal `412`. Now stop ignoring the `x3`.
