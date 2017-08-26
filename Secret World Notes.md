@@ -1500,3 +1500,80 @@ But I still think they should change that fourth note.
 
 -----
 
+# Mortal Sins
+
+## Tier 10/29
+
+> Apă Vie, the light of the morning;
+
+Well it's obviously going to be in Romanian: life = `viaţă`
+
+I kept thinking "path of life" (calea vieții) and "water of life" (apa vieții). Fail fail fail.
+
+## Tier 11/29
+
+> Apă Moartă, the final forwarning.
+
+It's called the Waters of Death. Did you think you'd get there while living? Besides, it's in the lair; better to start off dead. Follow the river, follow the ghosts.
+
+Oh lore, thou temptress… (912, 357)
+
+-----
+
+# Trials of the Dragon
+
+## Tier 2/5
+
+There's a warrior just the the northwest of the Romany camp, (780, 926). You don't get a block, dodging doesn't work, and you can't cancel attacks. Don't hit him when he's blocking, or you'll lose most of your health and likely lose (unblockable, undodgable knock-down punches.) Wait for his block to end, then use a large punch. That'll knock him down, and you can cleanup from there. And don't forget to re-equip your weapons.
+
+## Tier 3/5
+
+Behind the Abandoned Taverna in Hell's Row is the portal to the Trial of Fire.
+
+                                End
+                             +-------+
+                             | 26    |
+                             |       |
+                             +-------+
+                  +-------+             +-------+
+                  |       |             | 23    |
+                  |       |             |       |
+                  +-------+             +-------+
+                             +-------+  +-------+
+                             | 22 25 |  | 24    |
+                             |       |  |       |
+                             +-------+  +-------+
+                  +-------+
+                  | 21    |
+                  |       |
+                  +-------+
+       +-------+  +-------+  +-------+             +-------+
+       |       |  | 17 20 |  |       |             | 10    |
+       |       |  |       |  |       |             |       |
+       +-------+  +-------+  +-------+             +-------+
+       +-------+  +-------+  +-------+  +-------+  +-------+
+       | 15 18 |  |  6 13 |  |  7 12 |  |  8 11 |  |  9    |
+       |       |  | 16 19 |  |       |  |       |  |       |
+       +-------+  +-------+  +-------+  +-------+  +-------+
+       +-------+             +-------+
+       | 14    |             |  5    |
+       |       |             |       |
+       +-------+             +-------+
+                  +-------+  +-------+  +-------+
+                  |       |  |  4    |  |       |
+                  |       |  |       |  |       |
+                  +-------+  +-------+  +-------+
+                  +-------+             +-------+
+                  |  3    |             |       |
+                  |       |             |       |
+                  +-------+             +-------+
+                  +-------+  +-------+  +-------+
+                  |  2    |  |       |  |       |
+                  |       |  |       |  |       |
+                  +-------+  +-------+  +-------+
+                             +-------+
+                             |  1    |
+                             |       |
+                             +-------+
+                               Start
+
