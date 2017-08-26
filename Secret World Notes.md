@@ -1452,3 +1452,51 @@ Close `Alina Florea`'s file, and pick up the next: Dusko Biukovic. Last seen in 
 
 Enter the password `alexandre` and the quest ends. You can read the files, which include information on Rada Nastase (quest hub in Carpathian Fangs), Cassandra King (she stole Excalibur in Kingsmouth), Naonomi Tanaka (in Kaidan, don't recall her story), John Copley (I believe the South African making deals with the Atenists in Egypt), and you (the player). Wouldn't say my *greatest* fear is anarchy, but I do miss the taco achievement.
 
+# Singing Stones
+
+**First song:** (1039, 619)
+
+      4
+    1   3
+      2
+
+When facing east, `4` is at the top of the circle.
+
+    1 2 3 4 1 4 3 2 1 2 3
+
+**Second song:** (1022, 767)
+
+Same setup, facing east, `4` is at the top.
+
+    4 4 3 1 4 2 1 4 3 2 2 4 2 1
+
+**Third song:** (1052, 526)
+
+Same again, facing east, no light beam hints? You sons of mothers…
+
+Ok, It's not actually that bad. There are still only four tones, and it starts by going from highest to lowest, so just write down the notes as numbers and translate after.
+
+    1 2 3 4 -> tonal position
+    4 3 2 1 -> actual position
+
+The tones are played in this order: `43213142313214`, so the resulting stone activation is:
+
+    1 2 3 4 2 4 1 3 2 4 2 3 4 1 
+
+**I do hate mushrooms:** (895, 428)
+
+1. Iele's Melody
+2. Melody of the Deep Glade
+3. Melody of the Shallow Waters
+4. Melody of the Fallen
+
+This annoyed me. A lot. The fourth note played is obviously the same as the first (they're both E's), so I logically assumed it was *Fallen* again, not *Iele*. Of course that doesn't work. The second note in *Iele* is also an E, but come on…
+
+So the order is:
+
+    4 1 3 1 2 1
+
+But I still think they should change that fourth note.
+
+-----
+
