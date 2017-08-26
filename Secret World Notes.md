@@ -1577,3 +1577,52 @@ Behind the Abandoned Taverna in Hell's Row is the portal to the Trial of Fire.
                              +-------+
                                Start
 
+
+## Tier 4/5
+
+You're trying to get to (1078,391). It's easiest to head around west, watch out for the patrolling shadow and fungal giant. If you get caught, you'll have to leave the lair and try again.
+
+## Tier 5/5
+
+There is Romanian graphiti to the left side of the arch after passing the green gate.
+
+    Boltă peste Măcelar.
+    
+    Over the Butcher.
+
+Kill the butcher (309, 844), jump up on the left overhang (facing him), travel along the stones to the right side. Next graphiti:
+
+    Cu lumina celor drepți
+    
+    With the light of the righteous
+
+Kill the Deacon (205, 787). Next clue is on the inside left door behind him:
+
+    De stai în astă ușă, opt și treizeci îți va fi călăuza.
+    
+    Standing in this door, eight and thirty will be your guide.
+
+8:30? 38? To be honest, I'm not sure what they're going for with this. Possibly 38° from the door when horizontal is 0 and positive is clockwise (that looks more like 40°)? Maybe 8:30 on the clock when facing west? It's not a great clue. But the next step is up half-way along the wall at (255, 731), on the corner of a building. Hard to see.
+
+    Uită-te în gura dragonului
+    
+    Look in the mouth of the dragon
+
+The dragon is just north of the last graphiti, wrapped around the legs of the statue of Vlad.
+
+    Doar dacă pleci pe unde ai venit, a îngerilor viziune ai zărit.
+    
+    Only if you leave where you came, the visions of the angels you have seen.
+
+Exit the city and read the graphiti between the angel statues on the bridge.
+
+    Pe pod până ce Luna se culcă, apoi o cauți unde se aruncă.
+    
+    On the bridge until the moon is down, then you look for her where she is thrown.
+
+Um. Sometimes I think having to run what are possibly cryptic clues through a machine translator may not be the best approach to building puzzles.
+
+Head to the only open door in the northwest corner of the city and look for the "odd bump" in the wood between the dressers. There's also a carving of a dragon in the table. Possibly intended to be a pointer.
+
+Head outside, look left, and see the wall open up. Grab the artifact and you're done.
+
