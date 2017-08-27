@@ -1626,3 +1626,105 @@ Head to the only open door in the northwest corner of the city and look for the 
 
 Head outside, look left, and see the wall open up. Grab the artifact and you're done.
 
+-----
+
+# The Abandoned
+
+## Tier 1/5
+
+It's greek around the edge of the coin.
+
+    Τοúτω μεν, óν κóαμος ουκ εχωρει, νυν τύμβος αρκεí
+    Then, when a man does not go, there is still a tumulus.
+    
+It's not a lot to go on. A tumulus is an ancient burial mound. There is a graveyard around here. At (760, 565) is a crypt, the entrance of which is flanked by two statues of knights. The helmet of the knight on the right side is clickable. The helmet of the left knight is missing, along with its head.
+
+## Tier 2/5
+
+    ΤΡΕ´ΙΣ ΑΔΕΡΦ´ΕΣ ΓΕΝΝ´ΗΘΗΚΑΝ,
+    ΑΠ' ΤΟ Α´ΙΜΑ ΤΟΥ ΜΕΓ´ΑΛΟΥ,
+    ´ΟΠΟΥ ΣΥΝΘ´ΗΚΗ ΟΠ´ΙΣΤΗΚΕ,
+    ΓΙΑ ΝΑ ΠΡΟΣΤΑΤΕΥΘΟ´Υ ΑΠ´Ο ΤΗ ΜΟ´ΙΡΑ,
+    ΑΘ´ΑΝΑΤΗ ΚΑΙ ´ΑΓΡΙΑ,
+    ΚΙ ΑΠ' ΤΗΝ ΕΠ´ΙΔΡΑΣΗ ΤΟΥ ΧΡ´ΟΝΟΥ,
+    Τ' ΑΛΗΘΙΝ´Α ΟΝ´ΟΜΑΤΑ ΤΟΥΣ ΚΡΑΤ´ΗΘΗΚΑΝ ΜΥΣΤΙΚ´Α
+    ΑΠ ΤΟ ΓΟΡΔΙΟ ΔΕΣΜ´Ο
+    
+    Three were born
+    from the mother of the Great,
+    which treaty establishes
+    to protect from fate
+    Athens and the wild
+    from the effects of time.
+    Their true names have been kept secret
+    the god of Desmo.
+
+Not entirely sure what that last line is. "Desmo" is just a transliteration of the greek letters, so may not actually be a name. Of course it doesn't matter that much, since we're really just interested in the book on the table at the end of the room. But the daughter you're looking for is the Iele.
+
+## Tier 3/5
+
+    Mama ia copilul în brațe, cu o bucățică de mămăfigă iese în ogradă, 
+    rupe mămăliga în trei și descântă de trei ori, aruncând spre pădure 
+    de fiecare dată câte o bucată:
+    
+    Mama Pădurii,
+    Am trimis un semn la tine,
+    De la copilul meu,
+    Să-ți dau strânsul cu plânsul,
+    Si să-mi dai somnul și odihna fetii tale
+    Ca să doarmă ca butucul
+    Si să tacă ca chiticul.
+    Cum dorm păsările în pădure,
+    Așa să doarmă copilul la mine.
+    
+    
+    The mother takes the baby in her arms, with a piece of moss, comes 
+    out into the garden, breaks the mallow in three, and sinks three times, 
+    throwing a piece of wood every time:
+    
+    Mother of the Forest,
+    I send a sign to you,
+    From my child,
+    Let me grieve you with the weeping,
+    And give me the sleep and the rest of your faces,
+    To sleep like a hub
+    And keep quiet like the chit.
+    How birds sleep in the woods,
+    So sleep the baby at me.
+    
+There is a Romany Man standing at the south end of Siren's Lake (south of Anastasia's Wagon). As you approach, a Mysterious Woman appears and the man follows her. Off you go.
+
+A Kali-Ma later and you can pick up the next clue from the Romany Man's corpse. Also, lore.
+
+## Tier 4/5
+
+    Du cojile de ou la izvorul râului, în dealurile 
+    de la soare-apune. Nu a venit vremea Paștelui 
+    Blajinilor, însă cei mici n-au mai apărut de 
+    prea mult timp. Aruncă cojile în apă - dacă 
+    soarta ne e prielnică, Blajinii le vor găsi și ne 
+    vor da norocul lor.
+
+Translation:
+    
+    Take the egg shells to the river's spring in the hills of the sun-set.
+    The time of the Blajin Passover has not come, but the little ones have
+    not appeared for too long. Throw the peels in the water - if our fate is
+    good, the Blajinii will find them and they will give us their luck.
+
+"Hills of sun-set", hills where the sun sets, hills in the western part of the map. The river starts at (314, 549), and grab the faun lore.
+
+After following the eggshells you end up at about (405, 676) where a Blajini comes out of a grey portal and takes them. Now we have to follow him.
+
+Into death!
+
+Tediousness…
+
+Talk to one of the Spectral Blajini to receive a painted egg. Back to Mosul.
+
+## Tier 5/5
+
+Target a player and click on one of the Children's Book, Book of the Iele, or Reassembled Egg. This completes the mission, and the player you have selected will get one of three lore pieces. You won't get it, they will. How forcedly altruistic. What makes it worse is that the lore appears right in front of you while you're telling the story, but of course you can't get it, you're busy talking. This is one of the worst quest endings I've encountered in any game.
+
+-----
+
