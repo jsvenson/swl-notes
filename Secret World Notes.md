@@ -1728,3 +1728,19 @@ Target a player and click on one of the Children's Book, Book of the Iele, or Re
 
 -----
 
+# The Cellar Door
+
+## Tier 3/4
+
+The door codes are in binary. Every door except 2, 6, and 7 release two Imprisoned Ghouls (which of course causes the achievement to fail.)
+
+* `010` - 2: lore and a dead blajini with a note
+* `110` - 6: imprisoned faun, which progresses the quest
+* `111` - 7: the doors to the east block
+
+To continue the mission, open door `110`, look in cell 6, then door `111`.
+
+Strangely, if you close a door with monsters and then open it again, the monsters reappear. I'd have to say it's a slow way to farm, two at a time…
+
+-----
+
