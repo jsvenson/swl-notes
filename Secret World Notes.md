@@ -1830,3 +1830,18 @@ Arturo's office is bugged. Find the listening devices.
 * on the bottom of the frame of Primavera, first painting from the door on the east wall
 * on the left side of the pillar between the two doorways on the north wall
 
+-----
+
+# Love and Origami
+
+I just straight up cheated on this one. It's actually pretty interesting, and if there were a way of easily printing or exporting the pages in order to fold it properly, I'd be all for it. But there isn't, apart from screenshots and irritatingly aligning pages in photoshop. Who has time for this? (I say that with the full knowledge that I am playing a game when I could be doing other more "worthwhile" tasks, but do-not-cross lines make appearances everywhere.) Also, why can't I draw characters in google translate on mobile devices? I have a stylus, it works spectacularly, and barring that moving a finger around on a screen is still easier than drawing with a mouse, but for some reason google has decided that tablet users wouldn't benefit from the multitude of keyboards and input methods made available to desktops.
+
+Anyway…
+
+1. **(472, 903)** - "I will wait for you on a bench by the northern shore."
+2. **(947 734)** - "I will wait for you beneath the Cherry Blossom Tree in Ginpachi Park."
+3. **(452, 814)** - "I will go to the Pachinko Parlour. Meet me there."
+4. **(178, 793)** - "Innocence broken, fading like the morning light, bathe away my pain."
+
+-----
+
