@@ -1816,3 +1816,17 @@ Ah, endless rooms.
 
     red red green black blue blue red green black red
 
+-----
+
+# Spy Games
+
+Arturo's office is bugged. Find the listening devices.
+
+* in the book on the right shelf facing the south wall (this starts the side quest)
+* on the side of the frame of Grand Canal with the Rialto Bridge, second painting from the door on the west wall
+* beneath the broken floorboards along the west wall
+* in the cushions of the right couch facing the north wall
+* on top of the computer underneath Arturo's desk
+* on the bottom of the frame of Primavera, first painting from the door on the east wall
+* on the left side of the pillar between the two doorways on the north wall
+
