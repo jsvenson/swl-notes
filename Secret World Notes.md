@@ -1744,3 +1744,75 @@ Strangely, if you close a door with monsters and then open it again, the monster
 
 -----
 
+# The Red Thread
+
+## Tier 1/5
+
+From a book found in the back left corner of the library in the Monastery of Our Lady:
+
+> Inside *Metamorphosen Liber Secundus*
+>
+> We always did dance around each other. Of course I knew you were in love with me, you vile dilettante. Why else would you have stayed in the castle when he went away. Why else would you be seeking my secrets even now? I'm sure the centuries have done nothing to sharpen your verse, but what about your wit?
+>
+> My past has been hidden in the long shadows of gods,
+> My soul is a song you must play in the dark,
+> These, the weights of my burdens,
+> Mara, 1863.
+
+## Tier 2/5
+
+> My past has been hidden in the long shadows of gods,
+
+Light casts shadows, and candles cast light. Blow out all the candles. It takes a bit but it's not too hard.
+
+## Tier 3/5
+
+> My soul is a song you must play in the dark,
+
+Musical Interlude.
+
+Symbols of 
+
+  1. Calisto
+  2. Diana
+  3. Jupiter
+  4. Juno
+
+Each symbol plays a note, and you need to play a song to remove the ward. Luckily, you've been following a song played with only four notes.
+
+    1 2 3 3 4 3 2 3 2 1 2 3 4 3 3 2 2 1
+
+## Tier 4/5
+
+> These, the weights of my burdens,
+
+Calisto was a follower of Diana right up until she was turned into a bear by Juno because Jupiter (Juno's husband) seduced Calisto while he was disguised as Diana. While the references may make sense, the story will not because [Ils sont fous ces romains](https://en.wikipedia.org/wiki/Obelix).
+
+From left to right:
+
+* Jupiter (Vlad)
+* Calisto (Allesandro)
+* Juno (the "Other" woman, probably Lilith)
+* Diana (Mara)
+
+
+## Tier 5/5
+
+> The water babbles, Calisto, but not for you. Because you were never among her favoured.
+
+We're in the frozen north, so there's no babbling brooks outside. Instead head toward the Roman Baths. Work your way through them until you come to the pool of water (beside the boss monster General Blasius.) Now we need to pick the lock.
+
+Back to the mythology: In order to save Calisto from being killed by her son (who was out hunting bears) Jupiter turned both Calisto and her son into the constellations Ursa Major and Ursa Minor. And we just happen to be presented with a pool of stars.
+
+[This page](http://www.solarsystemquick.com/universe/ursa-major-constellation.htm) has a decent diagram of stars and their relative "sizes" in the constellation of Ursa Major. It's probably easiest to find the big dipper and work out from there. Face south in the pool and find the three large stars that match Alkaid, Mizar-Alcor, and Alioth; those make up the handle of the big dipper (or the tail of the bear, although that never made much sense to me; I haven't seen many bears with tails that long.)
+
+-----
+
+# I Walk Into Empty
+
+## Tier 1/5
+
+Ah, endless rooms.
+
+    red red green black blue blue red green black red
+
