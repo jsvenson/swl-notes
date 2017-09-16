@@ -974,7 +974,7 @@ Second laptop: In front of a tent with a security camera to the north. Jump over
 
 Third laptop: in an open tent just north of the second laptop. You get stuck on a lot of geometry in this one. Using the laptop causes it to break.
 
-Laptop parts: retrace your steps in reverse, as you'll want to head north along the eastern cliff face to get the the air conditioning unit of the north-most tent. *Do not beam out,* unless you don't care about the achievement. After disabling the air conditioner wait for the drones to pass and head into the tent (watch out for the camera above the door.) There are three parts: one just ahead of you, the other two in the right half of the tent. One to the north, one to the south. Exit the tent (still watching out for the camera) and follow the eastern cliff face back to the start. After that make your way back to the third laptop, fix it, and finish.
+Laptop parts: retrace your steps in reverse, as you'll want to head north along the eastern cliff face to get to the air conditioning unit of the north-most tent. *Do not beam out,* unless you don't care about the achievement. After disabling the air conditioner wait for the drones to pass and head into the tent (watch out for the camera above the door.) There are three parts: one just ahead of you, the other two in the right half of the tent. One to the north, one to the south. Exit the tent (still watching out for the camera) and follow the eastern cliff face back to the start. After that make your way back to the third laptop, fix it, and finish.
 
 -----
 
