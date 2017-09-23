@@ -1860,3 +1860,35 @@ At a late point in the quest, you'll be blocked by fire on one side and lasers a
 
 -----
 
+# Fierce Competition
+
+## Tier 2/5
+
+The main plaza is the sculpture of the city just east of Susanoo's Diner.
+
+> Align the gap to the rising sun, on the bottom - that's the passcode!
+
+If you head back to the plaza with the statue and take a look to the east ("the rising sun") through the gap in the buildings, you can see the billboards. The bottom billboard has the words "Spark the Light". This is the password for the laptop.
+
+## Tier 3/5
+
+You have 60 seconds to solve the puzzle.
+
+If you look closely, you can see there are slightly raised squares on the base of the sculpture. Cover the squares. And don't forget the big one in the top left, and the building in the cluster on the right side just below the top right corner.
+
+The body is along the wall at around (525, 417).
+
+## Tier 4/5
+
+Follow red until you reach the corpse. Then the blue until you reach the Dream Palace.
+
+## Tier 5/5
+
+You're looking for a laptop. It's basically invisible. Facing the Dream Palace, it's behind the first pillar on the left.
+
+> Count ninety-nine seconds and pluck two words out of my heart shaped box.
+
+Well, there was a picture of a music player. Nirvana, Heart-Shaped Box. 99 seconds in: `angel hair`.
+
+-----
+
