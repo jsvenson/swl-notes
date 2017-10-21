@@ -1888,7 +1888,192 @@ You're looking for a laptop. It's basically invisible. Facing the Dream Palace, 
 
 > Count ninety-nine seconds and pluck two words out of my heart shaped box.
 
-Well, there was a picture of a music player. Nirvana, Heart-Shaped Box. 99 seconds in: `angel hair`.
+Well, there *was* a picture of a music player. Nirvana, Heart-Shaped Box. 99 seconds in: `angel hair`.
 
 -----
 
+# Choose Your Own
+
+## Tier 1/6
+
+First up is to find a computer old enough to have a floppy drive. There is one in the computer cafe in Seoul, but the bathhouse in Kaidan is closer, and is also using ancient hardware.
+
+## Tier 2/6
+
+**Just Escaping**
+
+* stand
+* open door
+* get phone
+* ne
+* lock door
+* look
+* ne
+* lock door
+* look
+* use phone
+* open curtains
+* open window
+* use phone
+* get log
+* nw
+* s
+* use log
+* get scissors
+* sw
+* look
+* se
+* se
+* hop
+* fight
+* use scissors
+* read
+
+Next disk is in Kingsmouth (580, 365). The computer is in the police station. (You'll need to use the floppy disk reader, not the computer.)
+
+## Tier 3/6
+
+**The Failed Audition**
+
+* exit
+* n
+* give money
+* se
+* show symbol
+* Carcosa
+  * The Pallid Mask is a reference to the fictional play *The King in Yellow*, and appears in a book of short stories by Robert W. Chambers (also titled *[The King in Yellow](https://en.wikipedia.org/wiki/The_King_in_Yellow)*) The first stanza of the play indicates that the characters are in a city called "Carcosa".
+* read book
+* exit
+* nw
+* w
+* attack
+  * this is a leap. Seems like the only way to get here (apart from looking it up) would be out of frustration
+* Tim
+* get crowbar
+* get book
+  * Here is another example of the fragility of this text adventure engine: if you pick up the book before the crowbar, your inventory will show "Book, Crowbar". If you proceed south and attempt to use the crowbar on the door, you will get the message "You cannot do that right now". The only way this puzzle works is if you pick up the crowbar first, then the book, which gives you the inventory "Crowbar, Book". I'm tempted to say they're looking for `inventory.substr(0, 7) == 'Crowbar'` which would be insane. I'm still a little confused why they didn't try to incorprate something like the [Inform engine](https://en.wikipedia.org/wiki/Inform), which is a far more robust solution for implementing these puzzles.
+* s
+* use crowbar
+* up
+* yellow
+  * This threw me for a bit, until I looked back at the notes. *The King in Yellow*. Duh.
+* down
+* Hastur
+  * "If you want to invoke a king, you have but to speak his name. The place and the god." From *The Repairer of Reputations* (and the wikipedia page) Hastur is connected by lakes and is also a god of shepherds.
+
+*The Failed Audition* took place in London, so off we go to the Albion Theatre. Talk to the Booking Manager (to the right, just inside the door) and head backstage. Pick up the Theatre Control System from beside the computer.
+
+* Backdrops -> Pattern -> Yellow Gradient -> Back
+* Lighting -> Spotlight Toggle: Center -> Back
+* Curtain
+
+The character in *The Failed Audition* went to center stage and bowed. So should you.
+
+After leaving the theatre, turn right and start walking. At the end of the street is a yellow sign of The Yellow Sign. It's a bit on the nose. The next disk is under the Bingo Cola vending machine.
+
+Unfortunately you'll need to pay to get backstage to that CRT again, so it's probably best to just find another computer. The machines previously used are still around.
+
+## Tier 4/6
+
+**Witch Feast**
+
+* stand
+* look
+* get knife
+* open door
+* wait
+  * "If you take this autumn's corn husks, and weave a doll in her likeness, you will have power over her."
+* n
+* talk
+* use knife
+* skin wolf
+* n
+* nw
+* make doll
+* n
+* use pelt
+* open door
+* use doll
+* open door
+* get Mertvaya Voda
+  * Romanian. "Zhivaya Voda" is "Living Water", "Mertvaya Voda" is "Dead Water". I'm not 100% certain why you use the death water first. The game has it heal your brother's body, but I don't see the connection.
+* get Zhivaya Voda
+* use cauldron
+
+The game actually had "beseiged farmlands" in it, so…
+
+While I generally wouldn't associate Cucuvea with Baba Yaga, why not. Plus, she has a computer.
+
+"Place the name of the Hag in the glowing cauldron." So the hag's name is Baba Yaga, but that's not what the children in *Witch Feast* wrote. `Iron Tooth`
+
+"The town where the dead never lie." You could say they always tell the truth. Iăzmaciune!
+
+"The door lit by a torch on its right." The chapel in the center behind Misha, the Butcher is not correct. Even though it fits the clue. Instead go to the southeast corner of the city (381, 774).
+
+
+## Tier 5/6
+
+It's at this point that I'm pretty sure the Swarm is a bunch of jerks.
+
+**One Way Out**
+
+* stand
+* open door
+* down
+  * Either they're asking for the pleas to stop, or it's a typo.
+* left
+
+Well. First, don't forget to pick up the completed game disk. I was running around for ages trying to figure out what happened. Head out the room, down the stairs and enter the doorway that's opened to your right. The take a left. Then die.
+
+More or less.
+
+-----
+
+# The Meowling
+
+## Tier 3/6
+
+A group of thirteen cats on Soloman Island. First guess it at the graveyard behind the church. But no, that's something else. This is a cross-map experience: head to Blue Mountain and visit Mrs. Franklin.
+
+## Tier 4/6
+
+Too much running around… It's in the attic.
+
+> May the seven sisters keep her safe, now and in the year of her death.
+
+The seven sisters is almost always the Pleiades, and there just happens to be a a painting of Elihu Vedder's *The Pleiades* in the gallery upstairs. It may be reversed, though…
+
+Also, "the year of her death" is the year of Elena Zhelikovsky's death (Madame Rogêt mentioned her, and she's in that book about the things. Also in the Franklin Mansion lore.) 1957
+
+
+## Tier 5/6
+
+Annapurna is a shop in London. The owner seems to like olives. Davi-ees!
+
+> Freshly picked seeds chewed to destroy fair Boadicea,
+
+Fennel, from Egypt. The pharoah had a garden; it's corrupt, now. Also: where is this "The Backyard"? Below a railway?
+
+Well that's disappointing. The garden is apparently so corrupt now that there aren't any fennel plants left. So much for choice… Back to London, then. "The Backyard" is Ealdwick Park. Check the northwest corner.
+
+> mixed in equal parts to calming leaves from the Capon's Tail,
+
+Valerian. Transylvania, in the lake beside the gypsy's wagon. Or look behind the register in Annapurna.
+
+I didn't check, but based on what happened with the Pharoah's Fennel, I wouldn't be surprised to find out they've removed the valerian plants from the Shadowy Forest. That's actually very disappointing. If I want to take the time to travel around the world collecting these ingredients, let me. It's what I did for the previous three years, and I didn't really have an issue with it.
+
+> and one part the maiden's watcher of the road.
+
+[Chicory](http://capitalnaturalist.blogspot.ca/2014/06/chicory-watcher-of-road.html). Sold at the House of Chalk, just across the street from Annapurna.
+
+## Tier 6/6
+
+As the notes in the SWL launcher state (October 2017), if you try to combine the ingredients before reaching the ritual site, you will place the quest in an unfinishable state, requiring assistance from a GM to progress. So don't.
+
+As the book in the Tier 5 image says, "Sobhoban Stone? Vinterskog? Wispwood?". You can try going to the Wispwood in Kingsmouth, but you'll be wrong. The Savage Coast, just east of the Vinterskog Woods anima leap point.
+
+-----
+
+# The Cat God
+
+Well that's a nice surprise. No need to find a group, just head on into the portal and beat up some cats.
