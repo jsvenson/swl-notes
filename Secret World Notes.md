@@ -158,6 +158,12 @@ Chest combination - 654312
 
 -----
 
+#Weapons of Minor Destruction
+
+Combination for the chest is the same as in League of Monster Slayers.
+
+-----
+
 # Gravity
 
 Last Will and Testament **bold text read through red glass from ferris wheel and monocle from Bogeyman**
@@ -2077,3 +2083,22 @@ As the book in the Tier 5 image says, "Sobhoban Stone? Vinterskog? Wispwood?". Y
 # The Cat God
 
 Well that's a nice surprise. No need to find a group, just head on into the portal and beat up some cats.
+
+-----
+
+#Spiral
+
+For the achievement:
+
+Jump onto rubble, make sure you're not sprinting, couch, palette, down the plank, onto the what is that, a deep fryer? then down the next plank and jump onto the mattress. Over to the palette, across the board to the next palette, jump to the filing cabinet, pick up the side quest Population of Filth, jump to the fridge to the right, turn slightly and pull the fuse. No more electricity. First floor complete.
+
+Up the first flight of stairs to the landing. Note the tripwire at the base of the next flight; jump over it. Down the hallway, killing filthy humans in the first room, stop at the body in the hall (second door). Walk. There will likely be more filthy humans, keep walking, don't use active dodge. Also, don't fight beside the hole in the floor. You'll likely end up on the rakes. After fighting, don't step on the rakes. Up the first flight of stairs, landing, flight two, second floor!
+
+Look down the hallway toward the potato guns. Left, right, left, right, both, slight pause, repeat. You should sprint here, across the gap, down the hallway. Can't go up, head down, more filth. One room open, one filth and a Black Signal lore inside. Backtrack… Back at where you were watching the potato guns, watch again, then run toward them (at the appropriate time) and in through the open door. More filth (should be at 21 now) through the hole in the wall and don't touch the door before you pull the fuse. Now open the door, but don't step through, the potato guns are just to your right. Time it right again and run between them; that way you'll miss the rake around the corner. Kill the filth on the landing above, and if you don't have it head down the stairs to the lore, The Black Signal #9. Back up the stairs to the landing, another trip wire (two paints cans this time). Jump over it and up to floor 3.
+
+These trip wires… possibly you can shoot them out. Elevation thing?
+
+Left is blocked, so jump over yet another trip wire and head up the stairs to the fourth floor. After killing the filth (should be finished the side quest now) down the hallway you can take the stairs (WALK! marbles on the landing, and jump the trip wire at the bottom) back down to the third floor. Filth to the right, traverse the bridge to the left. Filth through the first open door, nothing else. Glue and a filthy corner. It's the tentacular one, keeps pulling you in. Annoying, but shouldn't be too difficult to dispatch. Down the stairs on the landing is the final "The Black Signal" lore. Back up and jump over the trip wire heading up to floor four. (Careful on this one. Because of the glue you have to get pretty close. Possibly you can just walk across the sack intersecting it, but I don't really trust the engine that much.)
+
+Attack the broom, call the elevator, up to the fifth floor and done!
+
