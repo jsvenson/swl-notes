@@ -2102,3 +2102,19 @@ Left is blocked, so jump over yet another trip wire and head up the stairs to th
 
 Attack the broom, call the elevator, up to the fifth floor and done!
 
+-----
+
+# All Alone Together
+
+## Tier 1/5
+
+Sure, easy. When you cheat. Down an alley at (740, 750) there is a dumpster. He's inside it. Also, Kaidan lore 10.
+
+flashygurl27 is up past the graveyard at the flower cart guarded by the Corrupted Flower Seller (856, 660) who no longer attacks on sight, so there's that. Examine the camera.
+
+Amaya worked for Orochi, so you can search for her name in the [Orochi Employee Finder](http://orochi-group.com/?action=efinder) and find out she was last seen in Ginpachi Park. And as it happens, her body is still there, by the tree (facing the entrance to Agartha, head clockwise about a quarter circle.)
+
+Phattrax has a website with pictures of his car. The car is in a parking lot at (245, 880). So is Phattrax.
+
+-----
+
