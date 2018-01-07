@@ -2118,3 +2118,44 @@ Phattrax has a website with pictures of his car. The car is in a parking lot at 
 
 -----
 
+# Youth Outreach
+
+## Tier 2/5
+
+Search for clues. There is a sign just south of the kindergarten with the phrase "we can find the swan within every ugly duckling". This leads down to the dock of the shinto shrine island in the south of Kaidan (761, 59) where you'll see swan boats.
+
+Into the water, on the underside of the dock is another message: "Don't fear the dead Fear nothing!" with the date 13/9/1965. Inspect the graphiti to continue (this takes some effort to get the position correct.)
+
+## Tier 3/5
+
+"Don't fear the dead." Graveyard. (755, 179) Search for clues among the Illimitable Kyonshi, and don't miss the two lore pieces. 
+
+Find the plaque, read the words.
+
+               Paul Art
+          September 13, 1965
+    
+    The words of the prophets are
+     written on the subway walls
+
+## Tier 4/5
+
+To the subway (964, 334). Enter the southerly subway tunnel and inspect the graphiti on the north wall.
+
+> The door is the future
+
+> The sun is the key
+
+> Don't get your feet wet
+
+> - The Prophet
+
+## Tier 5/5
+
+(681, 271)
+
+"The sun is the key". The graphiti in each tier has a sun, of which a single "ray" is highlighted. Three pieces of graphiti, three suns, four bricks. Through elimination, three of four works.
+
+      1  2
+    4      3
+
