@@ -2159,3 +2159,93 @@ To the subway (964, 334). Enter the southerly subway tunnel and inspect the grap
       1  2
     4      3
 
+-----
+
+# Climbing Faust
+
+There is a computer on floor 19 of Faust Capital that allows you to enter a safe deposit box number and security code. Beside the door opposite the terminal is a paper sticking out of a folder on the floor with the numbers `58219`. This is the security code. In the center room are six open safe deposit boxes, each with a three-digit id. The security code is only valid with one box number: `247`, on the north wall the one with the corpse beside it. (At least it was in my run; it's possible the box/code are randomized each time.) Entering the box id and code in the computer gives this:
+
+    Box ID: 247
+    Owner: D. Ghould
+    Contents: Relics acquired during a recent 
+    Egyptian cleanup operation. Do not open without 
+    Director approval.
+
+This has no bearing on completion of the quest.
+
+## Tier 3/3
+
+On floor 19 you can choose between knowledge and musical talent.
+
+**Musical Talent**
+
+Play the flute. Different colors for different notes. The keys are thus:
+
+    1 4 4 4 4 5 3 2 2 2
+    1 2 2 2 2 4 5 4 4 4
+    1 5 5 5 5 4 2 6 4 3
+    3 1 1 1 1 3 2 6 4 4
+
+Either the achievement is broken, or it's very lenient. I made a lot of mistakes getting the notes, and then on the final step (play all four lines at once) I had five 2's on line two. Got it on the second attempt and was awarded the achievement.
+
+In TSW you got a flute. No flute in SWL. I am sad.
+
+**Knowledge**
+
+Haven't done this branch yet.
+
+-----
+
+# Climbing Anasi
+
+## Tier 3/3
+
+Nutso AI. It's a theme we just can't seem to shake.
+
+Did these riddles change? I don't recall.
+
+    I never was, am always to be;
+    No one ever saw me, nor ever will,
+    And yet I am the confidence of all
+    To live and breathe on this terrestrial ball.
+
+Answer: Tomorrow
+
+    An agent approaches a door and knocks on it. She
+    hears a voice from the other side whisper "six."
+    "Three" she replies. The door opens and lets her
+    through.
+    
+    A second agent approaches and knocks just the
+    same. "Seven" he hears. "Five" he replies. The
+    door opens.
+    
+    You knock on the door and heaer "one." What do you
+    say?
+
+Answer: Three
+
+Count the letters in the challenge to get the answer.
+
+    Mary's father has 5 daughters: Nana, Nene, Nini,
+    Nono. What is the fifth daughter's name?
+
+Answer: Mary. Of course.
+
+    If you have it, you want to share it. If you
+    share it, you don't have it. It is a _____.
+
+Answer: Secret.
+
+    This thing all things devours:
+    
+    Birds, beasts, trees, flowers;
+    Gnaws iron, bites steel;
+    Grinds hard stones to meal;
+    Slays king, ruins town,
+    And beats high mountain down.
+
+Answer: [Time](https://en.wikipedia.org/wiki/The_Hobbit)
+
+-----
+
