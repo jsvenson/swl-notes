@@ -2159,6 +2159,8 @@ To the subway (964, 334). Enter the southerly subway tunnel and inspect the grap
       1  2
     4      3
 
+(You'll also need this combination to enter the Clubhouse when replaying My Bloody Valentine and One Kill Ahead.)
+
 -----
 
 # Climbing Faust
