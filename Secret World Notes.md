@@ -1023,7 +1023,7 @@ Location: (329, 848) at the head of the Ankh, between the two air filters.
 # The Voice of Klein
 
 * First recording - entrance of the Ankh (solo instance)
-* Second recording - behind a pillar, just down teh first stairs (to the murder ball)
+* Second recording - behind a pillar, just down the first stairs (to the murder ball)
 * Third recording - behind some crates on the right side of the ramp down after the murder ball (don't forget to suck up the tremor with the device to get to the next room)
 * Fourth recording - turn right after the ramp, at the end of the first alcove (second alcove has lore)
 * Fifth recording - on a desk on the other side of the room after the fight with Klein (only use the device to absorb the larger attacks, when they encircle you)
