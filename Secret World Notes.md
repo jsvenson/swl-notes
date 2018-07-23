@@ -1075,7 +1075,7 @@ From left to right: Tutenkhamen, Nefertiti, Akhenaten (the raven outside gave th
 
 Romanian, translates to:
 
-> Mihail Sasu was found dead, hanged by the neck. A police commissioner from Cluj was called. His name is John Patrascu. That's not how things work in Harburesti. Only tell Patrascu what he has to say and give him speed [what he wants to hear to get him to leave?]. Then we'll deal with this trap as we know. Since the poor boy's spirit is still spinning around here, we might ask him what he remembers. If he is troubled, we will bring him peace. If he shows his finger, we will be right.
+> Mihail Sasu was found dead, hanged by the neck. A police commissioner from Cluj was called. His name is John Patrascu. That's not how things work in Harbaburesti. Only tell Patrascu what he has to say and give him speed [what he wants to hear to get him to leave?]. Then we'll deal with this trap as we know. Since the poor boy's spirit is still spinning around here, we might ask him what he remembers. If he is troubled, we will bring him peace. If he shows his finger, we will be right.
 
 Type `Mihail Sasu` into the computer:
   
