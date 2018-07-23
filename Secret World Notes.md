@@ -699,6 +699,7 @@ Braziers:
 2. Infancy
 3. Adulthood
 4. Old Age
+5. Childhood
 
 -----
 
