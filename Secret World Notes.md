@@ -2264,3 +2264,22 @@ While wearing the Annointed Morninglight Jumpsuit (the red one), `/worship` with
 This one is not at all easy to figure out, and in truth makes little sense. During Tier 2 of the mission "One Flew Over" (given by Che Hansson), you will enter the warehouse with the piles of rotting human remains. After taking care of the workers on the warehouse floor, look under the left staircase heading up above the cage. There will be a usable hazmat suit on the ground (it does not light up). Use this, and then wander back toward the warehouse entrance, climb the piles of bones to the left of the doors (making sure to pick up entry 2 of the Aigamuxa lore) and jump onto the top of the entrance. Up here there is an "Abnormally large skull"; examine it, and you will receive the Favoured step of the achievement.
 
 How this improves your cover identity…well it doesn't, since everyone who would have seen you has been killed by you or, in the case of Brother Tooth, is about to be killed by you and eww there _are_ eyes on his feet.
+
+-----
+
+# The Broadcast
+
+Samhain fun.
+
+## Radio locations
+- Kingsmouth radio (church graveyard) - 6236kHz
+- Savage Coast radio (inside the Black House) - 6587kHz
+- Blue Mountain radio (Wabanaki graveyard) - 7307kHz
+
+## Dave's PC
+
+For the impatient: `6`, `The Lonely Patriot`. But go ahead and read the rest.
+
+## The Presenter
+
+If you're trying this on the highest difficulty you can, you may want to take out the radios in front of the Presenter before attacking him at all. That will prevent all the adds from spawning. Of course if you're going for the achievements, stack hitpoints and self-healing, or try it on a lower difficulty.
