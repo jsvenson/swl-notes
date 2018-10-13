@@ -2281,7 +2281,7 @@ Samhain fun.
 
 ## Dave's PC
 
-For the impatient: `6`, `The Lonely Patriot`. But go ahead and read the rest.
+For the impatient: `1`, `6`, `The Lonely Patriot`. But go ahead and read the rest.
 
 ## The Presenter
 
