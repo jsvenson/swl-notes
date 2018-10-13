@@ -2275,6 +2275,9 @@ Samhain fun.
 - Kingsmouth radio (church graveyard) - 6236kHz
 - Savage Coast radio (inside the Black House) - 6587kHz
 - Blue Mountain radio (Wabanaki graveyard) - 7307kHz
+- The Scorched Desert radio (crashed plane) - 4623kHz
+- City of the Sun God radio (inside the Black Temple entrance) - 5603kHz
+- Beseiged Farmlands radio (in the graveyard north of the church) - 430kHz
 
 ## Dave's PC
 
