@@ -2277,7 +2277,7 @@ Samhain fun.
 - Blue Mountain radio (Wabanaki graveyard) - 7307kHz
 - The Scorched Desert radio (crashed plane) - 4623kHz
 - City of the Sun God radio (inside the Black Temple entrance) - 5603kHz
-- Beseiged Farmlands radio (in the graveyard north of the church) - 430kHz
+- Beseiged Farmlands radio (in the graveyard north of the church) - 4308kHz
 - Shadowy Forest radio (in the graveyard northeast of the chapel, in front of a crypt) - 5706kHz
 - Carpathian Fangs radio (in the Roman Baths) - 8203kHz
 - Kaidan radio (in teh graveyard in downtown) - 9057kHz
