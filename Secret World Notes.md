@@ -2250,6 +2250,24 @@ Answer: Secret.
 
 Answer: [Time](https://en.wikipedia.org/wiki/The_Hobbit)
 
+    A murderer is condemned to death. The death is
+    broadcast live as part of QBL Media's permium
+    entertainment. The murderer must choose between
+    three rooms. Room One is full of raging fires.
+    Room Two is full of armed assassins. Room Three
+    is full of lions that haven't eaten in three
+    years. Which room is safest for him: One, Two, or
+    Three?
+
+Answer: Three. The lions are all dead from starvation.
+
+
+    The one who built did not want it. The one who
+    bought it did not need it. The one who used it
+    did not know it. It is a _____.
+
+Answer: Coffin.
+
 -----
 
 # Achievement: The Perfect Cover
