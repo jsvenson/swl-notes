@@ -2195,7 +2195,24 @@ In TSW you got a flute. No flute in SWL. I am sad.
 
 **Knowledge**
 
-Haven't done this branch yet.
+Answer three riddles.
+
+    You heard me before, yet you hear me again. Then I die 'til you call me again. What am I?
+
+Answer: Echo
+
+    A rich man needs me,
+    a poor man has me,
+    and if you eat me you die.
+    What am I?
+
+Answer: Nothing
+
+    We've talked. You've seen my game. Can you guess my name?
+
+Answer: Mephistopheles
+
+Answer those three and get the lore for The Jinn and the First Age.
 
 -----
 
