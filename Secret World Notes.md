@@ -2338,3 +2338,29 @@ If you're trying this on the highest difficulty you can, you may want to take ou
 
 (988, 411)
 
+-----
+
+# The Kingsmouth Code
+
+## Tier 1
+
+Follow the direction the pyramids on the manhole covers point.
+
+## Tier 2
+
+At the town hall, inspect the portrait of Frans Hals(?).
+
+## Tier 3
+
+The note on the painting says the "hands of time point to truths written by kings", and the clock on the wall is stuck at 10:10. Truths written by kings would be the Book of Kings in the Old Testament. So 1 Kings 10:10.
+
+> And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.
+
+Solomon Priest has a house in Kingsmouth (had?), and there's a locked basement around the back. The code to open the door is in the verse: "an hundred and twenty talents".
+
+120
+
+## Tier 4
+
+The password to the computer is in the hint, you just need the latin translation. Helpfully, it's written on all the manhole covers around town.
+
