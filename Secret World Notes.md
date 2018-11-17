@@ -2324,3 +2324,17 @@ For the impatient: `1`, `6`, `The Lonely Patriot`. But go ahead and read the res
 ## The Presenter
 
 If you're trying this on the highest difficulty you can, you may want to take out the radios in front of the Presenter before attacking him at all. That will prevent all the adds from spawning. Of course if you're going for the achievements, stack hitpoints and self-healing, or try it on a lower difficulty.
+
+-----
+
+# The Captain's Playlist
+
+"Safety Dance" - 2:47
+
+"Don't Stop Believin'" - 4:11
+
+    x = 247 × 4 = 988
+    y = 411
+
+(988, 411)
+
