@@ -12,6 +12,18 @@
 
 # Digging Deeper
 
+## Tier 1
+
+*Clavis Aurea* is "gold key" in latin. Or possibly "key of gold". "Golden key"? Doesn't matter. There's a giant key to the city in the back room of the second floor of the town hall which, unbelievably, fits this lock.
+
+## Tier 2
+
+*Oculus, rara avis*
+
+Eye, rare bird.
+
+### Notes
+
 Solomon Priest's Tomb
 
 A CONFESSION,
@@ -22,17 +34,13 @@ One night consider this an Admission to two Acts of Cowardice, and also of bad F
 
 The Remains of Solomon Priest were moved at my Instruction, by Loyal Men, who fashioned for him a new Rest within the Tunnels. On this matter I declare my Reasoning was to prevent our Enemies and Consorts alike from Digging too Deeply. The trail to the new Tomb shall die with my Retainers and my Self, and so too shall die any Looter or Gawker seeking to negotiate its Traps, should they not hold Enlightened Knowledge.
 
-cont. on second page:
+## Tier 3
 
-To the Second Part, then, the reason for this Deception is that I did take the man's life, all true, I did Poison him as the Rumours have long circulated, and likely shall Continue. For truly it was less an act of urder as of Martyring, and though I assumed his Duries I perform them with Hollow Ritual, and as his Name is remembered, mine remains in his considerable Shadow. In the one score of Years since my Fateful Act, I have come to accept this was always my Rightful Place, and in seeking to Unseat him, I did only Seal it so Forevermore.
+*of Khufu, of the grand lodge*
 
-The Third knew of my Treachery, of this I am Certain, even though he remained in London; now finally, as I breathe my last, he comes to America with Designs for the Order in New York.
+pyramid, compass
 
-Isaac FLETCHER,
-Governer of Kingsmouth,
-Grand Master of the Illuminated Lodge
-
------
+## Tier 4
 
 To proceed, write as a Learned Man would.
 Look to Jerome's Work on the two score and
@@ -67,6 +75,21 @@ And avert his Gaze from schemes Coiled and Chaotic.
 `/spit` on the armor<br>
 `/covereyes` before the serpent<br>
 
+## Tier 5
+
+### Notes
+
+Confession part Two
+
+To the Second Part, then, the reason for this Deception is that I did take the man's life, all true, I did Poison him as the Rumours have long circulated, and likely shall Continue. For truly it was less an act of urder as of Martyring, and though I assumed his Duries I perform them with Hollow Ritual, and as his Name is remembered, mine remains in his considerable Shadow. In the one score of Years since my Fateful Act, I have come to accept this was always my Rightful Place, and in seeking to Unseat him, I did only Seal it so Forevermore.
+
+The Third knew of my Treachery, of this I am Certain, even though he remained in London; now finally, as I breathe my last, he comes to America with Designs for the Order in New York.
+
+Isaac FLETCHER,
+Governer of Kingsmouth,
+Grand Master of the Illuminated Lodge
+
+-----
 
 # Men in Black Vans
 
