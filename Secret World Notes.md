@@ -1,6 +1,8 @@
-# Leftovers
+# Something Wicked
 
-1364752
+City Hall second floor filing cabinet. Q3 2002. Then it's off to the police station to check on the file of Larry Checkon. And then `/reset`.
+
+While still deaad, you can see a white raven on top of a squad car outside the police station. It will fly off; follow it.
 
     One for sorrow
     Two for joy
@@ -9,6 +11,11 @@
     Five for silver
     Six for gold
     Seven for a secret, never to be told.
+
+* 6 - gold
+* 3 - girl
+* 1 - sorrow
+* 7 - secrets
 
 # Digging Deeper
 
@@ -240,10 +247,10 @@ IT RAGES LOCKED INSIDE 23383IY
 
 ## Tier 4/5
 
--.. . .- - .... .-- .- .. - .- ... - .... . .-.. .- -.. -.-- .----. ... .--. .- -....
-                      what is going on here?
--.. . .- - .... .-- .- .. - .- ... - .... . .-.. .- -.. -.-- .----. ... .--. .- - ....
-D   E A  T H    W   A  I  T A  S   T H    E L    A  D   Y    '      S   P    A  T H
+    -.. . .- - .... .-- .- .. - .- ... - .... . .-.. .- -.. -.-- .----. ... .--. .- -....
+                          what is going on here?
+    -.. . .- - .... .-- .- .. - .- ... - .... . .-.. .- -.. -.-- .----. ... .--. .- - ....
+    D   E A  T H    W   A  I  T A  S   T H    E L    A  D   Y    '      S   P    A  T H
 
 I think it should be `DEATH WAITS AT THE LADY'S PATH`, but that's not what I saw the lights flash.
 
