@@ -91,6 +91,12 @@ Grand Master of the Illuminated Lodge
 
 -----
 
+# Dead Air
+
+## Tier 4
+
+All my iPhone app can make out is `LOCATION 712, 536`. Luckily that's close enough.
+
 # Men in Black Vans
 
 Subject: Field-deploying Occult Attrator V4<br>
