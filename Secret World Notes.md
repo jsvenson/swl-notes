@@ -2400,3 +2400,87 @@ Solomon Priest has a house in Kingsmouth (had?), and there's a locked basement a
 
 The password to the computer is in the hint, you just need the latin translation. Helpfully, it's written on all the manhole covers around town.
 
+-----
+
+# Hell and Bach
+
+The translations in this quest line rely on the following table.
+
+    A bal     I per    R chne
+    B sca     L lut    S ybden
+    C hro     M dmi    T nio
+    D van     N ilv    U zir
+    E aniu    O pal 
+    F angan   P rho 
+    G ird     Q eniu
+
+## Tier 1
+
+ORDERINT DUM METUANT
+
+    O pal   D van   M dmi
+    R chne  U zir   E aniu
+    D van   M dmi   T nio
+    E aniu          U zir
+    R chne          A bal
+    I per           N ilv
+    N ilv           T nio
+    T nio
+
+## Tier 2
+
+At the bottom of the labyrinth in New York.
+
+NON SUM QUALIS ERAM
+
+    N ilv   S ybden   Q eniu   E aniu
+    O pal   U zir     U zir    R chne
+    N ilv   M dmi     A bal    A bal
+                      L lut    M dmi
+                      I per
+                      S ybden
+
+
+## Tier 3
+
+Squatter's Den in London, across the street from the Darkside entrance.
+
+ORBIS NON SUFFICIT
+
+    O pal    N ilv   S ybden
+    R chne   O pal   U zir
+    B sca    N ilv   F angan
+    I per            F angan
+    S ybden          I per
+                     C hro
+                     I per
+                     T nio
+
+`pal` is difficult to reach for short characters. Jump to activate.
+
+
+## Tier 4
+
+A reverse translation this time.
+
+    nio bal sca zir lut bal    chne  bal   ysden bal
+    T   A   B   U   L   A      R     A     S     A
+    
+    ybden aniu  rho   nio   per   dmi   zir   ybden
+    S     E     P     T     I     M     U     S
+
+Head to the Tabula Rasa and buy a key to the Septimus room.
+
+## Tier 5
+
+Similar job here:
+
+    bal van    bal   zir   iro   zir   ybden nio    rho  aniu chne
+    A   D      A     U     G     U     S     T      P    E    R
+    
+    bal   ilv   ird   zir   ybden nio   bal
+    A     N     G     U     S     T     A
+
+Which, when translated to english, is "In August spaces", which makes no sense.
+
+Luckily, the translation is beside the point. The flyer is from the Museum of the Occult, so go there.
