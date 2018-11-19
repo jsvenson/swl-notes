@@ -235,6 +235,28 @@ all my real and personal property whatsoever and wheresoever.<br>
 In witness of which I have set my hand to this my will this [23rd] day of [March, 1980].<br>
 Testaor signature: [Nathaniel Winter]
 
+## Tier 1
+
+Inside the barn south of Nathaniel Winter.
+
+## Tier 2
+
+Wearing the clear lens, pick up part two of the plans on the south side of the fence surrounding the bumbper cars. Follow the lit path to the ferris wheel, where a pile of red glass is on the ground. Grab that, and you can now read part two.
+
+## Tier 3
+
+While making your way to the Octotron, there is a pile of blue glass in front of a bingo cola machine. Also don't miss picking up part three of Winter's Plan, posted to a shed just west of the ride.
+
+## Tier 4
+
+South from the Octotron with the blue lens, heading toward the roller coaster. And there's the next part of the plans heading up the ramp.
+
+## Tier 5
+
+Use both the red and blue glass to make purple. That's how light works.
+
+Just run the parts backward. I remember this being much more difficult.
+
 -----
 
 # Funeral Crasher
