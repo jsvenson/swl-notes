@@ -2506,3 +2506,77 @@ Similar job here:
 Which, when translated to english, is "In August spaces", which makes no sense.
 
 Luckily, the translation is beside the point. The flyer is from the Museum of the Occult, so go there.
+
+-----
+
+# Crime and Punishment
+
+## Tier 1
+
+The stupidest sentimental name is apparently "Lover's Regret". Follow that to Krieg's car and pick up the gps.
+
+## Tier 2
+
+    Your journey has been calculated. Please exit onto a mapped road.
+    Continue eastbound for 200 yards, and take the second exit.
+    Prepare to turn right.
+    Turn right, and follow the road for 500 yards.
+    Continue to follow the road.
+    Prepare to turn left.
+    Turn left now.
+    Navigation is paused.
+
+We'll need to follow the directions backwards, and face bacwards while doing it. I mean not really, but left becomes right and vice versa. We can throw away the "turn left now", since that's what Krieg was doing when he ran into the fence.
+
+A left turn from Henderson's Gate onto Lover's Regret would take you toward the lighthouse, so "continue to follow the road" until we get to an intersection where you could make a right turn onto Henderson's. Ignore the amusement park, he wasn't coming from there. We end up at Solomon Road. Head west for 200 yards (180 meters.)
+
+This gets us somewhere in the vicinity of the gas station.
+
+Based on Krieg's letter to Lucinda, he threw a picture away. So check the garbage cans.
+
+-----
+
+For fun:
+
+(532, 685) - Intersection of Solomon and Henderson's
+
+(362, 746) - Sycoil gas station northeast corner
+
+    362 - 532 = -170
+    746 - 685 = 61
+    
+       |
+    61 |
+       |__________
+           170
+
+    c^2 = a^2 + b^2
+    c^2 = 61^2 + 170^2
+      c = √32621
+        = 180.6
+
+Huh. Trigonometry works.
+
+## Tier 3
+
+Match the front of the house in the picture with the front of the houses on Solomon Road.
+
+## Tier 4
+
+samkriegsightings.wordpress.com is… Well, it is.
+
+Way down at April 2:
+
+> 4\. Your four-digit security codes all come from his books.
+
+Under [List of Works](https://samkriegsightings.wordpress.com/list-of-works) we can find books, years, and ISBNs. Trial and error.
+
+`8237` - last four digits of *The Resident Horror* ISBN.
+
+## Tier 5
+
+Hardcover original of [*Foucault's Pendulum*](https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/0151327653/). I wonder how long that link will work?
+
+Another ISBN. This time we want the entire 13 digits: `9780151327652`.
+
+(I went looking on the wikipedia page for the book which does have ISBNs for the original and english translations, but they're not the same ones. Even after going through the [ISBN Converter](http://isbn.org/ISBN_converter) to get the correct format, it was a different edition. So I guess the amazon search is the correct one? But again: how long will that work?)
