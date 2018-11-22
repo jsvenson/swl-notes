@@ -182,7 +182,7 @@ Solomon Island
 
 Devore founded the Blue Ridge in 1876. found guilty of murdering his wife Joanna in October 1881. Sentenced to death by hanging. Associated with individual named 'Beaumont'. Numerous references to this person in diary. Connected to other mentions of Beaumont in Solomon Island history? Diary also references important papers regarding Blue Ridge Mine located in mansion, but papers appear to have been hidden. Our agents have been unable to retrieve. Devore Mansion has recently been sold to E. Franklin.
 
-## Tier 15?/22
+## Tier 15/22
 
 Symbols might randomize? Standing on all-seeing eye, then eye surrounded by light beams opened the door for me.
 
