@@ -276,7 +276,7 @@ IT RAGES LOCKED INSIDE 23383IY
 
 I think it should be `DEATH WAITS AT THE LADY'S PATH`, but that's not what I saw the lights flash.
 
-Lady's Path = Joana's Trail, south of the mansion
+Lady's Path = Joana's Trail, south of the mansion. And you'll need to be dead.
 
 
 ## Tier 5/5
