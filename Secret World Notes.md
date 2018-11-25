@@ -2580,3 +2580,151 @@ Hardcover original of [*Foucault's Pendulum*](https://www.amazon.com/Foucaults-P
 Another ISBN. This time we want the entire 13 digits: `9780151327652`.
 
 (I went looking on the wikipedia page for the book which does have ISBNs for the original and english translations, but they're not the same ones. Even after going through the [ISBN Converter](http://isbn.org/ISBN_converter) to get the correct format, it was a different edition. So I guess the amazon search is the correct one? But again: how long will that work?)
+
+-----
+
+# Immersion
+
+I can't help but think that whis would be better as [Inform](http://inform7.com). At least then the syntax would make sense.
+
+## Tier 1
+
+### The Game v1.0
+
+    look
+    sw
+    look at soldier
+    get rifle
+    back
+    use keypad
+    7945
+    get teleporter
+    use teleporter
+    6 5
+    get ammunition
+    load rifle
+    back
+    ne
+    shoot loadedrifle
+    back
+    n
+    use keypad
+    6854
+    END OF The Game v1.0. (FILTHYMAN)
+
+
+Follow the path north from the Orochi Camp to (512, 1028). Enter the code in the keypad on the crate the helicopter drops. Combine the Orochi Tablet PC with the Game v2.0 sd card. Play The Game v2.0
+
+---
+
+### The Game v2.0
+
+  filthyman
+  down
+  enter cave
+  yes
+  yes
+  boone
+  up
+  w
+  attack bear with bees
+  next
+  use southeast telescope
+  w
+  look at bin
+  get hook
+  get line
+  get sinker
+  back
+  nw
+  use line and sinker (what kind of syntax is that? Why not 'tie sinker to line', or 'use sinker with line'?)
+  use weightedline and hook (again, 'weightedline'? Come on…)
+  use preparedline with window (ugh…)
+  use key in box
+  back
+  unlock door with key
+  look
+  ne
+  look at laptop
+  1798
+  END OF The Game 2.0. (BLACKSIGNAL)
+
+Head to Red's Bait and Tackle; the sd card is in front of the radio beside Ami.
+
+---
+
+### The Game v3.0
+
+    blacksignal
+    get bucket
+    w
+    n
+    w
+    get cigarettes
+    e
+    s
+    s
+    w
+    w
+    w
+    s
+    s
+    give cigarettes
+    back
+    get card
+    back
+    n
+    up
+    use card
+    get guitar
+    yes
+    push green button (or just green)
+    push red button (red)
+    push yellow button (yellow)
+    push red and yellow buttons (red and yellow)
+    push blue and red buttons (blue and red)
+    tilt guitar
+    END OF The Game 3.0. (THECOUNCILLIES)
+
+"He points to a location between the monitor and the keyboard on the third row of PCs."
+
+To Seoul! Black Hole PC, middle row of pcs by the wall.
+
+---
+
+### The Game v4.0
+
+    thecouncillies
+    examine stall
+    yes
+    e
+    s
+    watch
+    talk to man
+    give grimoire
+    n
+    n
+    show medallion
+    back
+    examine journeys
+    look
+    nw
+    ne
+    open crate
+    END OF The Game v4.0. (TOKYOAWAITS)
+
+To London. Down the alley past the barber shop, time to die. `/reset`, back to your body but don't resurrect just yet. Down the stairs toward the sewer but turn left instead of right. The gate is open, get the crate. Now rez.
+
+---
+
+### The Game v5.0
+
+    tokyoawaits
+    n
+    e
+    tokyoawaits
+    follow path
+    next
+    END OF The Game v5.0. (THEENDGAME)
+
+Venice. Head to the simulation room and follow the lights.
