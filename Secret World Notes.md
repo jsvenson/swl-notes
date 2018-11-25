@@ -965,7 +965,7 @@ Just remember: arabic and hebrew are right to left.
 
 `د م` = `m d` = `ד ם`
 
-Dalet, then Final Kaf
+Dalet, then Final Mem
 
 -----
 
