@@ -1013,15 +1013,17 @@ Ignore the map, which says the Halls of Lost Records is at the bottom of the zon
 
 # Halls of Lost Records
 
-There is an achievement to not get hit during this mission. It's nuts, especially with the forced combat. Most of the shades you can sneak past.
+Well this got a lot easier. The achievement is now just to not be seen by Transformed Orochi Soldiers. No combat, just sneaking. And it's not even in darkness, so all the monsters are completely visible.
 
-**Do not touch the blue beams in any way.**
+<del>There is an achievement to not get hit during this mission. It's nuts, especially with the forced combat. Most of the shades you can sneak past.</del>
 
-Four rooms, mostly obvious. There is one chamber where you have to kill a filth beast. It's not fun if you're going for the achievement. Use the grenades to stun it, damage it until it wakes up, repeat. (I'm guessing here, since I wasn't able to do that.) Very high dps would probably be useful.
+<del>**Do not touch the blue beams in any way.**</del>
 
-Sekhmet - this place sucks. *Be very careful entering this room:* There are four shades, two of them patrolling right by the entrance. You need to trigger one of the four devices (possibly far right?) on the wall in the corners of the room to enable the rotating smaller devices around the center. After that it's just like the last chamber (hah!) except for the patrolling shades: aim the surrounding devices toward the larger device in the center of the room. Watch out for the two wandering shades (just take your time, follow their pathing if you have to) and the blue laser beams, and also don't stand in their death explosions after triggering the defenses.
+<del>Four rooms, mostly obvious. There is one chamber where you have to kill a filth beast. It's not fun if you're going for the achievement. Use the grenades to stun it, damage it until it wakes up, repeat. (I'm guessing here, since I wasn't able to do that.) Very high dps would probably be useful.</del>
 
-That's the final room. Once you have the key, teleport back to Ptahmose and hand in the quest.
+<del>Sekhmet - this place sucks. *Be very careful entering this room:* There are four shades, two of them patrolling right by the entrance. You need to trigger one of the four devices (possibly far right?) on the wall in the corners of the room to enable the rotating smaller devices around the center. After that it's just like the last chamber (hah!) except for the patrolling shades: aim the surrounding devices toward the larger device in the center of the room. Watch out for the two wandering shades (just take your time, follow their pathing if you have to) and the blue laser beams, and also don't stand in their death explosions after triggering the defenses.</del>
+
+<del>That's the final room. Once you have the key, teleport back to Ptahmose and hand in the quest.</del>
 
 -----
 
