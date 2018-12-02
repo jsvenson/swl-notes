@@ -1079,6 +1079,10 @@ Location: (329, 848) at the head of the Ankh, between the two air filters.
 > Upon his <span style="text-decoration:line-through;">tyrannous</span> index finger of the right.<br>
 > The growls of the earth.
 
+Location: (755, 105) on the index finger of the right hand of the giant statue of Akhenaten over the entrance to City of the Sun God.
+
+If doing the achievement Due Diligence, find the third tremor, do not enter the Ankh after listening to the recording. Instead, place the device and collect a tremor. Return to the Oxford expedition tent and deliver the recording, then continue to find the fourth anomaly. You will get the achievement upon inspecting the seismograph after delivering the fourth recording.
+
 -----
 
 # The Voice of Klein
