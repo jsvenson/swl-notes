@@ -2734,3 +2734,41 @@ To London. Down the alley past the barber shop, time to die. `/reset`, back to y
     END OF The Game v5.0. (THEENDGAME)
 
 Venice. Head to the simulation room and follow the lights.
+
+-----
+
+# Heavy Metals
+
+### Scout Team Kama
+
+```php
+echo base64_decode('MjQ2IDc4MA=='); # 246 780
+
+> Reading interference pattern from the south-east.
+
+### Scout Team Tanto
+
+```php
+echo base64_decode('MTQyIDY3'); # 142 67
+
+> Reading interference patterns from the north-east towards Tsunami-teams last known location.
+
+### Scout Team Bo
+
+```php
+echo base64_decode('NTg1IDU1NQ=='); # 585 555
+
+> Reading heavy interference from the south, south-west towards the cliffs.
+
+### Scout Team Yari
+
+```php
+echo base64_decode('ODQyIDEwMDY='); # 842 1006
+
+> Still reading interference signal from the south-west.
+
+### Scout Team Tsunami
+
+Location: in a cave up the cliff at around (554, 386).
+
+Flash light, blood trail, keycard.
