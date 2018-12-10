@@ -2771,4 +2771,4 @@ echo base64_decode('ODQyIDEwMDY='); # 842 1006
 
 Location: in a cave up the cliff at around (554, 386).
 
-Flash light, blood trail, keycard.
+Flashlight, blood trail, keycard.
