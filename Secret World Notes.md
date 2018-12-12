@@ -1127,7 +1127,7 @@ So the correct hieroglyph is the right-most symbol on the left side when looking
 
 ## Tier 8/10
 
-From left to right: Tutenkhamen, Nefertiti, Akhenaten (the raven outside gave the clue.)
+From left to right: Akhenaten, Nefertiti, Tutenkhamen (the raven outside gave the clue.)
 
 -----
 
