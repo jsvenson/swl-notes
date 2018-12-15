@@ -2832,3 +2832,40 @@ However, kill yourself: "in death, two worlds bridged." The Great Architect is o
 To his skeleton, apparently. This makes even less sense. Did he sit down here and die? When did that happen? Did no one notice? Is he not the builder mentioned in the tablets? The ones that say "on his deathbed the three planned"? You'd think someone would have noticed.
 
 Anyway, that's the end, it's never mentioned again. So I guess it doesn't matter.
+
+
+-----
+
+# Fog and Mirrors
+
+Two ciphers. Messages prefaced by `C1` use the first, `C2` use the second.
+
+Site Alpha: 1472 Pearl St. That's right, in New York. Meet there after extraction. The front door is locked. Passcode is lat and long of the Forbidden City. You know the one. In Italy.
+
+1472 Pearl St - New York (294, 420)
+
+But… the Forbidden City is in China.
+
+Venice, Italy (45, 12)
+
+PC Password is IRONPUP33596
+
+Rest of the cipher key is in the password hint?
+
+    0123456789
+    2345678901
+
+So it's not `33596`, it's `11374`? `IRONPUP11374`
+
+
+Bay 1 security code - 8452
+
+Bay 2 - something weird in the big box? T. Harolds keeps getting headaches near it.
+
+Bay 3 - weird smelling puddle?
+
+Cipher C2R - take the rightmost letter of the bottom half of the key (C2), put it on the left side and shift the bottom right by 1.
+
+*Insanity.*
+
+> I changed the code on the 2nd gate. It is 112770
