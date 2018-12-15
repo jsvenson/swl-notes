@@ -2772,3 +2772,63 @@ echo base64_decode('ODQyIDEwMDY='); # 842 1006
 Location: in a cave up the cliff at around (554, 386).
 
 Flashlight, blood trail, keycard.
+
+-----
+
+# Foundations
+
+## Tier 2/3
+
+The tablet is at (349, 842). The more modern tablet is behind the bush.
+
+    Orochi Field Terminal Online
+    
+    Field Log 0864
+    
+    Another tablet, another partial translation. I'm
+    more interested in where they got this thing.
+    
+    "Mistress of Dread! Lady of Slaughter!
+    Where blood had run down temple stairs,
+    And carried away upon water, the builder stood.
+    He looked to the horizon to find her perch."
+
+"Lady of Slaughter" sounds like Hemitneter. The First Temple is to the east of her, and it has stairs. And there's a dead Orochi agent just to the left of the western stairs (165, 345).
+
+    Orochi Field Terminal Online
+    
+    Field Log 0865
+    
+    This tablet has been sandblasted, there's not a
+    lot to go on. Translation:
+    
+    "...builder gazed out on the divine lake,
+    And said, she would not face the tomb,
+    For in doing so it would give him power.
+    The ride was claimed for" (illegible; suggest
+    "Me--tse--r"?)
+
+Meretseger, perhaps. For Moutemouia. And she's not looking at the black pyramid. Jump down the cliff north of her and there's another dead Orochi agent, (805, 293).
+
+    Orochi Field Terminal Online
+    
+    Field Log 0866
+    
+    If this is the final section, this hunt has been
+    a bust. What bridge, what two worlds? Heading
+    back to base camp when this storm has died down.
+    
+    "In his life, he saw four of seven raised.
+    On his deathbed, the three planned.
+    In death, two worlds bridged.
+    A temple between the above and below.
+    It gives praise to his shining works,
+    And to the golden field of his rest."
+
+The four are apparently the still standing pillars on the way to the entrance to Agartha, although that doesn't really fit. When this tablet was written, possibly there were only four built by the time "he" died, but there are eight pillars, and no one would have guessed which pillars would still be standing now. So I don't buy that logic.
+
+However, kill yourself: "in death, two worlds bridged." The Great Architect is on the right heading toward the Agarthan portal, although quite difficult to see what with the monochromatic color scheme (757, 142). Speak to him, follow him.
+
+To his skeleton, apparently. This makes even less sense. Did he sit down here and die? When did that happen? Did no one notice? Is he not the builder mentioned in the tablets? The ones that say "on his deathbed the three planned"? You'd think someone would have noticed.
+
+Anyway, that's the end, it's never mentioned again. So I guess it doesn't matter.
