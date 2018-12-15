@@ -1135,6 +1135,8 @@ From left to right: Akhenaten, Nefertiti, Tutenkhamen (the raven outside gave th
 
 ## Tier 1/5
 
+After killing yourself and listening to the ghost beside Sophie say his name (Ioan Patrascu), head up to his room (the register on the counter behind the bar says he's stayin in "camera 1", which is "room 1"). Read the note on the dresser.
+
 > Mihail Sasu a fost găsit mort, spânzurat de gât. A fost chemat un comisar de poliție de la Cluj. Numele lui este Ioan Pătrașcu. Nu așa merg lucrurile în Harbaburești. Spune-i lui Pătrașcu numai ceea ce trebuie spus și dă-i viteză. După aceea o să ne ocupăm de traba asta așa cum știm noi. De vreme ce spiritui bietului băiat se tot învârte pe aici, l-am putea întreba ce își amintește. Dacă este tulburat, îi vom aduce pacea. Dacă arată cu degetul, vom face dreptate.
 
 Romanian, translates to:
@@ -1150,6 +1152,8 @@ Type `Mihail Sasu` into the computer:
     New entry: non-smoker.
 
 Head to (1000, 695).
+
+## Tier 2/5
 
 Cell phone: `Minute expirate. Acum e în mâinile tale. Caută.` = `Minutes expired. Now it's in your hands. Search for.`
 
@@ -1189,30 +1193,31 @@ Possibly this is better:
 > 
 > Michael.
 
------
-
 ## Tier 3/5
 
-You must be dead to hear the clues by the corpses, so `/reset`.
+Head to Olaru Farm and find the bodies (body parts?) of Sophie's mother and father. Her father is in the road being eaten by a couple of werewolves, her mother is closer to the fields. In pieces. After interacting with them, you must be dead to hear their clues, so `/reset` and run back.
 
-father's clue: VL
-mother's clue: 159
+> father's clue: `VL`
+
+> mother's clue: `159`
 
 The order is `VL159`. It's a license plate.
 
 ## Tier 4/5
 
-Enter `VL159` into the laptop.
+Back at Patrascu's hotel room, enter `VL159` into the laptop.
 
     Rental car. Involved in speeding offense in Bistrita.
     
     New entry: recently rented by Mr VAVILA, Dvidiu STOLOJAN, Mr SASU, Sanziana BRUMAREL, Mr BUIKOVIC.
 
-black hair, drinking, glasses. Suspect: Aron Sasu.
+black (brunette) hair, drinking, glasses. Suspect: Aron Sasu.
 
     Bacaș County local. Expired driver's license on record, no current address given.
     
     Criminal record: restraining order filed against Sasu in Harbaburești.
+
+Into the village and find Aron standing in front of the door to 106 Whatever road this is (1089, 1112). Accuse and fight!
 
 ## Tier 5/5
 
@@ -1272,7 +1277,7 @@ The journal:
 > 
 > The mournfulness of darkness, the joy of beloved and dead brothers. He tells me to bring the cop. Bring it where my hate started.
 
-And I believe all that means go back to the bridge over Lover's Creek, "where my hate started."
+And I believe all that means go back to the bridge over Lover's Creek, "where my hate started." (943, 801), in the river slumped against the bridge support.
 
 -----
 
