@@ -1304,7 +1304,7 @@ Drug List
 * [Boric Acid](https://en.wikipedia.org/wiki/Boric_acid)
   * antiseptic, insecticide, flame retardant
 * [Vancomycin](https://en.wikipedia.org/wiki/Vancomycin)
-  * antibiotic. Treats skin infections, bloodstream infections, endocrditis.
+  * antibiotic. Treats skin infections, bloodstream infections, endocarditis.
 
 -----
 
