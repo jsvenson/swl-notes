@@ -2874,3 +2874,5 @@ Cipher C2R - take the rightmost letter of the bottom half of the key (C2), put i
 *Insanity.*
 
 > I changed the code on the 2nd gate. It is 112770
+
+The girlfriend's birthday is 12/27/92
