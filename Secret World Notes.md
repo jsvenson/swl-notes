@@ -1698,7 +1698,7 @@ Exit the city and read the graphiti between the angel statues on the bridge.
 
 Um. Sometimes I think having to run what are possibly cryptic clues through a machine translator may not be the best approach to building puzzles.
 
-Head to the only open door in the northwest corner of the city and look for the "odd bump" in the wood between the dressers. There's also a carving of a dragon in the table. Possibly intended to be a pointer.
+Head to the only open door in the northwest corner of the city and look for the "odd bump" in the wood between the dressers. There's also a carving of a dragon in the table. Possibly intended to be a pointer. (No, that's a thing for a story mission.)
 
 Head outside, look left, and see the wall open up. Grab the artifact and you're done.
 
