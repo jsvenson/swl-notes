@@ -1737,6 +1737,10 @@ It's not a lot to go on. A tumulus is an ancient burial mound. There is a gravey
 
 Not entirely sure what that last line is. "Desmo" is just a transliteration of the greek letters, so may not actually be a name. Of course it doesn't matter that much, since we're really just interested in the book on the table at the end of the room. But the daughter you're looking for is the Iele.
 
+An aside: you need to attack the ropes (very Alexander, slice the knot!) They don't really highlight, so it's a bit of a nuisance if you don't remember.
+
+I didn't remember.
+
 ## Tier 3/5
 
     Mama ia copilul în brațe, cu o bucățică de mămăfigă iese în ogradă, 
