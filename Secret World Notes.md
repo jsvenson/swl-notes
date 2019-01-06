@@ -1776,6 +1776,8 @@ There is a Romany Man standing at the south end of Siren's Lake (south of Anasta
 
 A Kali-Ma later and you can pick up the next clue from the Romany Man's corpse. Also, lore.
 
+This can sometimes bug out. It took four tries following the Mysterious Woman before the quest advanced. I don't recall seeing the timer to follow her the first three times, and those three failed times also successfully hit me with the Forest's Malaise debuff, while the last try (which progressed the quest to the next tier) did not. 🤷
+
 ## Tier 4/5
 
     Du cojile de ou la izvorul râului, în dealurile 
