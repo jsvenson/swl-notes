@@ -1802,7 +1802,9 @@ Into death!
 
 Tediousness…
 
-Talk to one of the Spectral Blajini to receive a painted egg. Back to Mosul.
+I *think* you can just wander as fast as you can over to around (474, 932) and skip the complete waste of time following the blajini.
+
+Talk to one of the Spectral Blajini to receive a painted egg. You need to be alive to inspect it. Back to Mosul.
 
 ## Tier 5/5
 
