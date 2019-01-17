@@ -2884,3 +2884,25 @@ Cipher C2R - take the rightmost letter of the bottom half of the key (C2), put i
 > I changed the code on the 2nd gate. It is 112770
 
 The girlfriend's birthday is 12/27/92
+
+-----
+
+# When the Hatchet Falls
+
+## Tiers 5-7
+
+1. Turn on the lights
+  - flip the switch on the left
+  - spin the wheel on the right
+  - pressure - vetical lever increases, wheel decreases
+  - at 70% hit the button (red light on the left is 0, 14 up from that)
+    - it's the second-last green light, although the contrast between green and yellow is so small it's almost useless
+2. destroy the shield generator in the room up the stairs
+3. open the maglock door with the key from the room with the generator
+4. the code for the door can be found in the barracks (jump over the lasers to get there)
+  - 1878
+5. next maglock door (past the cameras; you can ignore the room with the creepy dolls unless you want the lore)
+6. room tot he left contains two more magkeys, room to the right: more lore
+7. Use the keys to open and unlock the left door, use the EMP Pulser to lock the left door open, retrieve the keys, open and unlock the right door.
+8. Disable the security protocols (the password is `password`)
+
