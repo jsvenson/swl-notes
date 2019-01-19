@@ -1936,6 +1936,7 @@ Anyway…
 At a late point in the quest, you'll be blocked by fire on one side and lasers and landmines on the other. Look at the landmines; walk though the fire where the landmines aren't.
 
     @ @ @ +
+    @ @ @ +
     @ @ + +
     @ @ + @
     @ + + @
