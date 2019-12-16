@@ -1398,7 +1398,7 @@ You get this:
 
 So off we go to check the tavern rooms. Camera III in particular.
 
-> There are holy places here in the village. At the holy church there is a holy man. That holy man owns a holy book. If you strip away the holyness from this message, th truth of my research will be revealed.
+> There are holy places here in the village. At the holy church there is a holy man. That holy man owns a holy book. If you strip away the holyness from this message, the truth of my research will be revealed.
 
 To St. Haralambie Church!
 
