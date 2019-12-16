@@ -1334,7 +1334,7 @@ Treatment: Vancomycin
 
 Fourth Patient
 
-> Aggressive behaviour, hallucinations, delusions, excessive production of saliva, dever, sweating and a sustained erection. This is rabies and at this point I can only mke the patient comfortable. My father's work with genetics could have saved this man, if only I could locate his diary. All of the clues to its location I recorded in my own diary…
+> Aggressive behaviour, hallucinations, delusions, excessive production of saliva, fever, sweating and a sustained erection. This is rabies and at this point I can only make the patient comfortable. My father's work with genetics could have saved this man, if only I could locate his diary. All of the clues to its location I recorded in my own diary…
 
 Treatment: translate the diary.
 
