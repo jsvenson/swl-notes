@@ -2764,6 +2764,7 @@ echo base64_decode('MjQ2IDc4MA=='); # 246 780
 
 ```php
 echo base64_decode('MTQyIDY3'); # 142 67
+```
 
 > Reading interference patterns from the north-east towards Tsunami-teams last known location.
 
@@ -2771,6 +2772,7 @@ echo base64_decode('MTQyIDY3'); # 142 67
 
 ```php
 echo base64_decode('NTg1IDU1NQ=='); # 585 555
+```
 
 > Reading heavy interference from the south, south-west towards the cliffs.
 
@@ -2778,6 +2780,7 @@ echo base64_decode('NTg1IDU1NQ=='); # 585 555
 
 ```php
 echo base64_decode('ODQyIDEwMDY='); # 842 1006
+```
 
 > Still reading interference signal from the south-west.
 
