@@ -307,7 +307,7 @@ Answer: 145
 Reason: take the sum of the squares of the previous term. So:
 
     5^2 = 25
-    2^2 + 5^2 = 4 + 24 = 29
+    2^2 + 5^2 = 4 + 25 = 29
     2^2 + 9^2 = 4 + 81 = 85
     8^2 + 5^2 = 64 + 25 = 89
     8^2 + 9^2 = 64 + 81 = 145
