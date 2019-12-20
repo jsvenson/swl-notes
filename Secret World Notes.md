@@ -307,7 +307,7 @@ Answer: 145
 Reason: take the sum of the squares of the previous term. So:
 
     5^2 = 25
-    2^2 + 5^2 = 4 + 24 = 29
+    2^2 + 5^2 = 4 + 25 = 29
     2^2 + 9^2 = 4 + 81 = 85
     8^2 + 5^2 = 64 + 25 = 89
     8^2 + 9^2 = 64 + 81 = 145
@@ -1334,7 +1334,7 @@ Treatment: Vancomycin
 
 Fourth Patient
 
-> Aggressive behaviour, hallucinations, delusions, excessive production of saliva, dever, sweating and a sustained erection. This is rabies and at this point I can only mke the patient comfortable. My father's work with genetics could have saved this man, if only I could locate his diary. All of the clues to its location I recorded in my own diary…
+> Aggressive behaviour, hallucinations, delusions, excessive production of saliva, fever, sweating and a sustained erection. This is rabies and at this point I can only make the patient comfortable. My father's work with genetics could have saved this man, if only I could locate his diary. All of the clues to its location I recorded in my own diary…
 
 Treatment: translate the diary.
 
@@ -1398,7 +1398,7 @@ You get this:
 
 So off we go to check the tavern rooms. Camera III in particular.
 
-> There are holy places here in the village. At the holy church there is a holy man. That holy man owns a holy book. If you strip away the holyness from this message, th truth of my research will be revealed.
+> There are holy places here in the village. At the holy church there is a holy man. That holy man owns a holy book. If you strip away the holyness from this message, the truth of my research will be revealed.
 
 To St. Haralambie Church!
 
