@@ -2323,7 +2323,7 @@ Answer: Tomorrow
 
 Answer: Three
 
-Count the letters in the challenge to get the answer.
+Count the letters in the challenge word to get the answer.
 
     Mary's father has 5 daughters: Nana, Nene, Nini,
     Nono. What is the fifth daughter's name?
