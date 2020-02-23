@@ -2916,7 +2916,7 @@ The girlfriend's birthday is 12/27/92
 
 ## Tier 1/4
 
-So… Use the Soulmate, wait what could possibly be an interminable amount of time for the game to match you up with someone (it depends entirely on how many people are available for pvp), then kill them. To be honest, I'm not sure if you *have* to kill them, or just die yourself. I don't remember if both happened to me. Too many other quests were happening at the same time.
+So… Use the Soulmate, wait what could possibly be an interminable amount of time for the game to match you up with someone (it depends entirely on how many people are available for pvp), then kill them. ~~To be honest, I'm not sure if you *have* to kill them, or just die yourself.~~ Nope: you have to kill them.
 
 ## Tier 2/4
 
