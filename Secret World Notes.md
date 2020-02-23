@@ -2952,4 +2952,4 @@ Once past all the other hinderances you end up in the Haitian Market heading tow
 
 ## Tier 4/4
 
-So give her death. Just remember: standing in her flame attacks will cancel out the debuff from her ice attacks. Don't let the stack reach 10 (I think?) and you'll be fine.
+So give her death. Just remember: standing in her flame attacks will cancel out the debuff from her ice attacks. Don't let the ice stack reach 10 or you'll die.
