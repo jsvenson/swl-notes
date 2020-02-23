@@ -2910,3 +2910,44 @@ The girlfriend's birthday is 12/27/92
 7. Use the keys to open and unlock the left door, use the EMP Pulser to lock the left door open, retrieve the keys, open and unlock the right door.
 8. Disable the security protocols (the password is `password`)
 
+-----
+
+# A Match Made in Rosenbrawl
+
+## Tier 1/4
+
+So… Use the Soulmate, wait what could possibly be an interminable amount of time for the game to match you up with someone (it depends entirely on how many people are available for pvp), then kill them. To be honest, I'm not sure if you *have* to kill them, or just die yourself. I don't remember if both happened to me. Too many other quests were happening at the same time.
+
+## Tier 2/4
+
+There are seven types of "flames" in the text message:
+
+  - Purple flames on oil slicks at sea.
+  - Flames lapping up the tower with 8 heads.
+  - Flames fueled by the corpses of the fanatical clean dressed.
+  - Flames deep underground, fueled by oily black tar.
+  - The red flames.
+  - The blue flames.
+  - The green flames.
+  
+Go to the Septimus Room in the Tabula Rasa. Obviously.
+
+I'm kidding, of course. This was quite inscrutable. At first I thought "flames" meant the number of lights on the building in the Rosenbrawl dimension. There are eight. Of course I didn't know what to do after that. So I cheated and looked up a hint on reddit. I think the hints were worse than the puzzle itself. The first one had me counting the number if instances of the word "flames" in the text message (13, or 14 if you also count a single "flame".) Then the next hint said "there are only a few places where numbers matter in the game." To be honest, it had been a while since I last played, and while I enjoy the game, I don't commit all places and things to memory. So this didn't help. In the end, I cheated more. Which was fine, because the next tier was worse, especially with the "don't get hit" achievement.
+
+## Tier 3/4
+
+Outside the Tabula Rasa there is an npc with purple hair wearing a bee mask and black and gold gaia armor (across the street from Rosenbaum, to the left by the fence.) Walk up to her and she runs away.
+
+And then don't get hit.
+
+Most of the obstacles are simple enough, although I was somewhat insulted by the "you're getting too far away, the mission will fail" message as you turn the first corner. You can't go any faster; it just seems like the quest designer was twisting the knife.
+
+Follow the girl with the abhorent texts. When she runs into an alley and drops giant red circles of doom, just keep in mind that you'll need to go *up* after them. I think that's what the green circle on the landing is supposed to indicate, but it's very easy to miss; I ran right past it. It's not as though there's suddenly a lack of traps, you run straight into three twisters. But after getting past those and not seeing the girl, then making it all the way past the giant circle in front of the Crusades and suddenly failing the mission (three times), on a lark I went up. I wasn't pleased with myself.
+
+It looks like you can't get past the last twitster on the catwalk. Just time the dodge right. No damage. Sometimes. Might be better to try your luck by jumping down and running through the big twisters.
+
+Once past all the other hinderances you end up in the Haitian Market heading toward the Haitian restaurant. At this point, the girl deserves death.
+
+## Tier 4/4
+
+So give her death. Just remember: standing in her flame attacks will cancel out the debuff from her ice attacks. Don't let the stack reach 10 (I think?) and you'll be fine.
