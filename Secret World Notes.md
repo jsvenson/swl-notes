@@ -2898,7 +2898,7 @@ The girlfriend's birthday is 12/27/92
 1. Turn on the lights
   - flip the switch on the left
   - spin the wheel on the right
-  - pressure - vetical lever increases, wheel decreases
+  - pressure - vertical lever increases, wheel decreases
   - at 70% hit the button (red light on the left is 0, 14 up from that)
     - it's the second-last green light, although the contrast between green and yellow is so small it's almost useless
 2. destroy the shield generator in the room up the stairs
@@ -2906,7 +2906,7 @@ The girlfriend's birthday is 12/27/92
 4. the code for the door can be found in the barracks (jump over the lasers to get there)
   - 1878
 5. next maglock door (past the cameras; you can ignore the room with the creepy dolls unless you want the lore)
-6. room tot he left contains two more magkeys, room to the right: more lore
+6. room to the left contains two more magkeys, room to the right: more lore
 7. Use the keys to open and unlock the left door, use the EMP Pulser to lock the left door open, retrieve the keys, open and unlock the right door.
 8. Disable the security protocols (the password is `password`)
 
