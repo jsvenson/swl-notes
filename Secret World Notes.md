@@ -2920,7 +2920,7 @@ So… Use the Soulmate, wait what could possibly be an interminable amount of ti
 
 ## Tier 2/4
 
-Investigate the Soulmate. More often than not what will happen is you'll trigger the Soulmate and queue for another pvp match. Why does this need to be so hard? In one go 'round, I spent 15 minutes trying to find the right pixel that would let me continue the mission. This should have been moved off into a separate item, or had the front trigger the queue and the back trigger the quest progression. Or *something*.
+Investigate the Soulmate. More often than not what will happen is you'll trigger the Soulmate and queue for another pvp match. Why does this need to be so hard? In one go 'round, I spent 15 minutes trying to find the right pixel that would let me continue the mission (facing the cabinet panel on the left side of the screen it was just away from the bottom right corner of the cabinet. A prior run had it on the bottom right corner of the cabinet panel on the *right* side of the screen.) This should have been moved off into a separate item, or had the front trigger the queue and the back trigger the quest progression. Or *something*.
 
 There are seven types of "flames" in the text message:
 
