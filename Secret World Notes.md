@@ -2,7 +2,7 @@
 
 City Hall second floor filing cabinet. Q3 2002. Then it's off to the police station to check on the file of Larry Checkon. And then `/reset`.
 
-While still deaad, you can see a white raven on top of a squad car outside the police station. It will fly off; follow it.
+While still dead, you can see a white raven on top of a squad car outside the police station. It will fly off; follow it.
 
     One for sorrow
     Two for joy
